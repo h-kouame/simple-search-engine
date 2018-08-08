@@ -3,8 +3,9 @@
 # 21 April 2016
 
 normalization = True
-stemming = False
+stemming = True
 case_folding = True
 log_tf = True
 use_idf = True
 log_idf = True
+thesaurus = True

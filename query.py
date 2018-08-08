@@ -1,11 +1,14 @@
 # Simple extended boolean search engine: query module
 # Hussein Suleman
 # 14 April 2016
+# Extended by Kouame Kouassi
+# 08 August 2018
 
 import re
 import math
 import sys
 import os
+from thesaurus import Word
 
 import porter
 
@@ -31,6 +34,16 @@ query = re.sub (r'[^ a-zA-Z0-9]', ' ', query)
 query = re.sub (r'\s+', ' ', query)
 query_words = query.split (' ')
 
+print "before", query_words, "\n"
+if parameters.thesaurus:
+    synonyms = []
+    for term in query_words:
+        if term != "":
+            word = Word(term)
+            synonyms += word.synonyms()
+            synonyms.remove(term)
+    query_words += synonyms
+print "After", query_words, "\n"
 # create accumulators and other data structures
 accum = {}
 filenames = []
@@ -53,7 +66,7 @@ for term in query_words:
         if parameters.stemming:
             term = p.stem (term, 0, len(term)-1)
         if not os.path.isfile (collection+"_index/"+term):
-           continue
+            continue
         f = open (collection+"_index/"+term, "r")
         lines = f.readlines ()
         idf = 1
