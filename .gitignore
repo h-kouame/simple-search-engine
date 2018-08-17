@@ -1,3 +1,14 @@
+apples_index/
+apples_index_N
+apples_index_len
+cran.all.1400_index/
+cran.all.1400_index_N
+cran.all.1400_index_len
+		
+testbed/thesaurus_index/
+testbed/thesaurus_index_N
+testbed/thesaurus_index_len
+		
 .idea/
 *.pyc
 
