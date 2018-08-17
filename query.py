@@ -8,6 +8,7 @@ import re
 import math
 import sys
 import os
+from math import log
 from thesaurus import Word
 
 import porter
@@ -41,7 +42,8 @@ if parameters.thesaurus:
         if term != "":
             word = Word(term)
             synonyms += word.synonyms()
-            synonyms.remove(term)
+	    if term in synonyms:
+	       synonyms.remove(term)
     query_words += synonyms
 print "After", query_words, "\n"
 # create accumulators and other data structures
@@ -67,6 +69,7 @@ for term in query_words:
             term = p.stem (term, 0, len(term)-1)
         if not os.path.isfile (collection+"_index/"+term):
             continue
+        print term
         f = open (collection+"_index/"+term, "r")
         lines = f.readlines ()
         idf = 1
@@ -101,5 +104,51 @@ for l in lengths:
 
 # print top ten results
 result = sorted (accum, key=accum.__getitem__, reverse=True)
-for i in range (min (len (result), 10)):
+num_result_returned = min(len (result), 10)
+for i in range (num_result_returned):
    print ("{0:10.8f} {1:5} {2}".format (accum[result[i]], result[i], titles[result[i]]))
+
+
+#load relevance judgements
+if parameters.query1:
+    filename = 'testbed/relevance.1'
+elif parameters.query2:
+    filename = 'testbed/relevance.2'
+elif parameters.query3:
+    filename = filename = 'testbed/relevance.3'
+else:
+    exit(0)
+relevance = []
+with open(filename) as f:
+    for line in f:
+        relevance.append(eval(line))
+
+counter = 0.0
+ave_precision = 0.0
+DCG = 0.0
+rels = []
+for i in range(num_result_returned):
+    result_id = eval(result[i])
+    rel = relevance[result_id - 1]
+    rels.append(rel)
+    DCG += rel/log(i + 2, 2)
+    if rel > 0:
+        counter += 1.0
+    ave_precision += counter/(i + 1)
+total_relevant_docs = len(relevance) - relevance.count(0)
+recall = counter/total_relevant_docs
+precision = counter/num_result_returned
+AP = ave_precision/num_result_returned
+rels = sorted(rels, reverse=True)
+IDCG = 0.0
+for i in range(len(rels)):
+    IDCG += rels[i]/log(i + 2, 2) 
+NDCG = DCG/IDCG
+
+print "Number of relevant docs: ", total_relevant_docs
+print "Recall: ", recall
+print "Precision: ", precision
+print "AP: ", AP
+print "DCG ", DCG
+print "IDCG: ", IDCG
+print "NDCG: ", NDCG

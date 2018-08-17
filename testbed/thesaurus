@@ -1,0 +1,1768 @@
+.I 1
+.T 
+ivorian cuisine
+.W
+Ivorian cuisine (pronounced "I" "vor" "i" "an") is the traditional cuisine of Côte d'Ivoire, or the Ivory Coast, and is based on tubers, grains, pig, chicken, seafood, fish, fresh fruits, vegetables and spices. It is very similar to that of neighboring countries in west Africa. Common staple foods include grains and tubers. Côte d'Ivoire is one of the largest cocoa producers in the world and also produces palm oil and coffee.
+Cassava and plantains are significant parts of Ivorian cuisine. A corn paste called "aitiu" is used to prepare corn balls, and peanuts are widely used in dishes. Attiéké is a popular side dish in Côte d'Ivoire made with grated cassava and is very similar in taste and consistency to couscous.[1] A common street-vended food is alloco, which is ripe plantain banana fried in palm oil, spiced with a spicy sauce made of onions and chili.[1] It can be eaten alone as a snack or often with a hard-boiled egg, as well as a side dish.
+Grilled fish and grilled chicken are the most popular non-vegetarian foods. Lean, low-fat Guinea fowl, which is popular in the region, is commonly referred as poulet bicyclette. Seafood includes tuna, sardines, shrimp and bonito.
+Maafe (pronounced "mafia") is a common dish consisting of meat in a peanut sauce.[2] Slow-simmered stews with various ingredients are another common food staple in Côte d'Ivoire.[2] Kedjenou is a spicy stew consisting of chicken and vegetables that are slow-cooked in a sealed pot[3][4] with little or no added liquid. This concentrates the flavors of the chicken and vegetables and tenderizes the chicken.[2] It's usually cooked in a pottery jar called a canary, over a slight fire, or cooked in an oven.[2]
+Ivorian land snails are huge and very appreciated, commonly grilled or eaten in sauce.
+.I 2
+.T
+south african food
+.W
+Don’t listen to these guys at Buzzfeed; they’re doing it wrong. To truly enjoy South African food, you have to actually be in South Africa. It’s all about shared history, your surroundings, and the people with whom you’ve gathered to break (braai)bread. We list the essential food that all visitors – and residents – should taste when on our gorgeous shores.
+Amagwinya / vetkoek
+It’s a ball of dough; it’s fried; it’s filled. Vetkoek really lives up to its name, meaning ‘fat cake’. Favourite fillings include spiced mince; apricot jam and grated cheese; or polony. Watch how to make it – and learn some new Zulu and Setswana food words while you’re at it.
+Biltong
+You can buy these strips of umami-rich dried and spiced meat – usually beef, kudu or ostrich – at almost any supermarket or corner café. Biltong is best enjoyed with a beer while watching sport, but if you’re in the winelands and want a more elegant introduction, try the warm prawn and cured snoek terrine at Helena’s in Stellenbosch, which comes rolled in wild herbs and kudu biltong dust, and served with tangy parsley purée.
+Bobotie
+This traditional Cape Malay dish comprises gently spiced minced lamb or beef topped with an egg-and-milk layer and browned in the oven. Some recipes call for the addition of apple, raisins or apricot jam, whose sweetness works well with the curry powder and turmeric that lend the dish its golden colour. Order the bobotie with coconut cream and almonds (on the specials menu every few weeks) at Pajamas and Jam Eatery in Strand, outside the Mother City.
+Boerewors
+This traditional thick farmer’s sausage is a staple at braais and hangover breakfasts. (It’s great on a soft roll with fried onion and lashings of sauce, too.) Spiced predominantly with coriander and containing a mixture of beef and pork, the sausage comes in a big coil, which sizzles pleasantly when you turn it over with tongs on the braai.  If you’re in Gauteng, order boerewors at The Grillhouse in Rosebank or at Fireside Bistro in Norwood, or try a gourmet boerewors roll topped with grilled onions and served with picalili, homemade ketchup and onion rings on the side at Life Grand Café at Waterfall.
+.I 3
+.T
+information retrieval
+.W
+Information retrieval (IR) is the activity of obtaining information system resources relevant to an information need from a collection of information resources. Searches can be based on full-text or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for metadata that describe data, and for databases of texts, images or sounds.
+Automated information retrieval systems are used to reduce what has been called information overload. An IR systems is a software that provide access to books, journals and other documents, stores them and manages the document. Web search engines are the most visible IR applications
+Overview
+An information retrieval process begins when a user enters a query into the system. Queries are formal statements of information needs, for example search strings in web search engines. In information retrieval a query does not uniquely identify a single object in the collection. Instead, several objects may match the query, perhaps with different degrees of relevancy.
+An object is an entity that is represented by information in a content collection or database. User queries are matched against the database information. However, as opposed to classical SQL queries of a database, in information retrieval the results returned may or may not match the query, so results are typically ranked. This ranking of results is a key difference of information retrieval searching compared to database searching.[1]
+Depending on the application the data objects may be, for example, text documents, images,[2] audio,[3] mind maps[4] or videos. Often the documents themselves are not kept or stored directly in the IR system, but are instead represented in the system by document surrogates or metadata.
+Most IR systems compute a numeric score on how well each object in the database matches the query, and rank the objects according to this value. The top ranking objects are then shown to the user. The process may then be iterated if the user wishes to refine the query.[5]
+.I 4
+.T
+machine learning
+.W
+Machine learning is a subset of artificial intelligence in the field of computer science that often uses statistical techniques to give computers the ability to "learn" (i.e., progressively improve performance on a specific task) with data, without being explicitly programmed.[1]
+The name machine learning was coined in 1959 by Arthur Samuel.[2] Evolved from the study of pattern recognition and computational learning theory in artificial intelligence,[3] machine learning explores the study and construction of algorithms that can learn from and make predictions on data[4] – such algorithms overcome following strictly static program instructions by making data-driven predictions or decisions,[5]:2 through building a model from sample inputs. Machine learning is employed in a range of computing tasks where designing and programming explicit algorithms with good performance is difficult or infeasible; example applications include email filtering, detection of network intruders or malicious insiders working towards a data breach,[6] optical character recognition (OCR),[7] learning to rank, and computer vision.
+Machine learning is closely related to (and often overlaps with) computational statistics, which also focuses on prediction-making through the use of computers. It has strong ties to mathematical optimization, which delivers methods, theory and application domains to the field. Machine learning is sometimes conflated with data mining,[8] where the latter subfield focuses more on exploratory data analysis and is known as unsupervised learning.[5]:vii[9] Machine learning can also be unsupervised[10] and be used to learn and establish baseline behavioral profiles for various entities[11] and then used to find meaningful anomalies.
+Within the field of data analytics, machine learning is a method used to devise complex models and algorithms that lend themselves to prediction; in commercial use, this is known as predictive analytics. These analytical models allow researchers, data scientists, engineers, and analysts to "produce reliable, repeatable decisions and results" and uncover "hidden insights" through learning from historical relationships and trends in the data.[12]
+Overview
+Tom M. Mitchell provided a widely quoted, more formal definition of the algorithms studied in the machine learning field: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E."[13] This definition of the tasks in which machine learning is concerned offers a fundamentally operational definition rather than defining the field in cognitive terms. This follows Alan Turing's proposal in his paper "Computing Machinery and Intelligence", in which the question "Can machines think?" is replaced with the question "Can machines do what we (as thinking entities) can do?".[14] In Turing's proposal the various characteristics that could be possessed by a thinking machine and the various implications in constructing one are exposed.
+.I 5
+.T
+deep learning
+.W
+Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, semi-supervised or unsupervised.[1][2][3]
+Deep learning architectures such as deep neural networks, deep belief networks and recurrent neural networks have been applied to fields including computer vision, speech recognition, natural language processing, audio recognition, social network filtering, machine translation, bioinformatics, drug design and board game programs, where they have produced results comparable to and in some cases superior to human experts.[4][5][6]
+Deep learning models are vaguely inspired by information processing and communication patterns in biological nervous systems yet have various differences from the structural and functional properties of biological brains, which make them incompatible with neuroscience evidences.[7][8][9]
+Definition
+Deep learning is a class of machine learning algorithms that:[10](pp199–200)
+use a cascade of multiple layers of nonlinear processing units for feature extraction and transformation. Each successive layer uses the output from the previous layer as input.
+learn in supervised (e.g., classification) and/or unsupervised (e.g., pattern analysis) manners.
+learn multiple levels of representations that correspond to different levels of abstraction; the levels form a hierarchy of concepts.
+Overview
+Most modern deep learning models are based on an artificial neural network, although they can also include propositional formulas or latent variables organized layer-wise in deep generative models such as the nodes in Deep Belief Networks and Deep Boltzmann Machines.[11]
+In deep learning, each level learns to transform its input data into a slightly more abstract and composite representation. In an image recognition application, the raw input may be a matrix of pixels; the first representational layer may abstract the pixels and encode edges; the second layer may compose and encode arrangements of edges; the third layer may encode a nose and eyes; and the fourth layer may recognize that the image contains a face. Importantly, a deep learning process can learn which features to optimally place in which level on its own. (Of course, this does not completely obviate the need for hand-tuning; for example, varying numbers of layers and layer sizes can provide different degrees of abstraction.)[1][12]
+The "deep" in "deep learning" refers to the number of layers through which the data is transformed. More precisely, deep learning systems have a substantial credit assignment path (CAP) depth. The CAP is the chain of transformations from input to output. CAPs describe potentially causal connections between input and output. For a feedforward neural network, the depth of the CAPs is that of the network and is the number of hidden layers plus one (as the output layer is also parameterized). For recurrent neural networks, in which a signal may propagate through a layer more than once, the CAP depth is potentially unlimited.[2] No universally agreed upon threshold of depth divides shallow learning from deep learning, but most researchers agree that deep learning involves CAP depth > 2. CAP of depth 2 has been shown to be a universal approximator in the sense that it can emulate any function.[citation needed] Beyond that more layers do not add to the function approximator ability of the network. The extra layers help in learning features.
+Deep learning architectures are often constructed with a greedy layer-by-layer method.[clarification needed][further explanation needed][citation needed] Deep learning helps to disentangle these abstractions and pick out which features improve performance.[1]
+For supervised learning tasks, deep learning methods obviate feature engineering, by translating the data into compact intermediate representations akin to principal components, and derive layered structures that remove redundancy in representation.
+Deep learning algorithms can be applied to unsupervised learning tasks. This is an important benefit because unlabeled data are more abundant than labeled data. Examples of deep structures that can be trained in an unsupervised manner are neural history compressors[13] and deep belief networks.[1][14]
+.I 6
+.T
+computer vision
+.W
+Computer vision is an interdisciplinary field that deals with how computers can be made for gaining high-level understanding from digital images or videos. From the perspective of engineering, it seeks to automate tasks that the human visual system can do.[1][2][3]
+Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g., in the forms of decisions.[4][5][6][7] Understanding in this context means the transformation of visual images (the input of the retina) into descriptions of the world that can interface with other thought processes and elicit appropriate action. This image understanding can be seen as the disentangling of symbolic information from image data using models constructed with the aid of geometry, physics, statistics, and learning theory.[8]
+As a scientific discipline, computer vision is concerned with the theory behind artificial systems that extract information from images. The image data can take many forms, such as video sequences, views from multiple cameras, or multi-dimensional data from a medical scanner. As a technological discipline, computer vision seeks to apply its theories and models for the construction of computer vision systems.
+Sub-domains of computer vision include scene reconstruction, event detection, video tracking, object recognition, 3D pose estimation, learning, indexing, motion estimation, and image restoration.[6]
+Definition
+Computer vision is an interdisciplinary field that deals with how computers can be made for gaining high-level understanding from digital images or videos. From the perspective of engineering, it seeks to automate tasks that the human visual system can do.[1][2][3] "Computer vision is concerned with the automatic extraction, analysis and understanding of useful information from a single image or a sequence of images. It involves the development of a theoretical and algorithmic basis to achieve automatic visual understanding."[9] As a scientific discipline, computer vision is concerned with the theory behind artificial systems that extract information from images. The image data can take many forms, such as video sequences, views from multiple cameras, or multi-dimensional data from a medical scanner.[10] As a technological discipline, computer vision seeks to apply its theories and models for the construction of computer vision systems.
+History
+In the late 1960s, computer vision began at universities that were pioneering artificial intelligence. It was meant to mimic the human visual system, as a stepping stone to endowing robots with intelligent behavior.[11] In 1966, it was believed that this could be achieved through a summer project, by attaching a camera to a computer and having it "describe what it saw".[12][13]
+What distinguished computer vision from the prevalent field of digital image processing at that time was a desire to extract three-dimensional structure from images with the goal of achieving full scene understanding. Studies in the 1970s formed the early foundations for many of the computer vision algorithms that exist today, including extraction of edges from images, labeling of lines, non-polyhedral and polyhedral modeling, representation of objects as interconnections of smaller structures, optical flow, and motion estimation.[11]
+The next decade saw studies based on more rigorous mathematical analysis and quantitative aspects of computer vision. These include the concept of scale-space, the inference of shape from various cues such as shading, texture and focus, and contour models known as snakes. Researchers also realized that many of these mathematical concepts could be treated within the same optimization framework as regularization and Markov random fields.[14] By the 1990s, some of the previous research topics became more active than the others. Research in projective 3-D reconstructions led to better understanding of camera calibration. With the advent of optimization methods for camera calibration, it was realized that a lot of the ideas were already explored in bundle adjustment theory from the field of photogrammetry. This led to methods for sparse 3-D reconstructions of scenes from multiple images. Progress was made on the dense stereo correspondence problem and further multi-view stereo techniques. At the same time, variations of graph cut were used to solve image segmentation. This decade also marked the first time statistical learning techniques were used in practice to recognize faces in images (see Eigenface). Toward the end of the 1990s, a significant change came about with the increased interaction between the fields of computer graphics and computer vision. This included image-based rendering, image morphing, view interpolation, panoramic image stitching and early light-field rendering.[11]
+Recent work has seen the resurgence of feature-based methods, used in conjunction with machine learning techniques and complex optimization frameworks
+.I 7
+.T
+ivorian food: the garba
+.W
+Ivorian food: the GARBA!
+Food time !
+Let us please our eyes and relish, while taking a look at the cooking of our Ivorian friends.
+You know what I’m talking about: Garba time!
+Popular Ivorian meal, the Garba (otherwise named Attiéké and fish) is generally sold by men in small street stalls, called Garbadromes. It consists of Attiéké (cassava semolina) and fried pieces of tuna with chopped onions, tomatoes and fresh peppers, sprinkled with cooking oil and seasoning powder (Cube Maggi). Garba is the quick and cheap meal of choice for young people of Abidjan. So every hour is good to eat it: consistent breakfast, lunch, dinner,..
+Here comes the recipe, for two:
+-1 Slice fresh tuna 300 g
+-1 Attiéké ball (cassava couscous, which is easily found in exotic grocery stores)
+-1 Small onion
+-1 African pepper (optional)
+– seasoning powder (One small Cube Maggi)
+– Oil
+– Salt and pepper
+-1 Large handful of flour
+Preparation :
+-> Chop the pepper and reserve. Chop the onion and reserve.
+-> Crumble coarsely the attiéké in a steam basket to rehydrate. Prepare it like couscous.
+-> Add salt, pepper and flour to tuna and fry it five minutes on each side in hot oil.
+-> On a big plate, spread the attiéké , sprinkle it with 3-4 tablespoons of the cooking oil, crumble the maggi cube over the entire surface of the dish, and mix well.
+-> Distribute the onion on top. Lay the fried fish on it.
+Submit chili apart.
+-> And go! It’s even better when you eat it with your fingers!
+And don’t forget to send us pictures of your tastiest Garba!
+.I 8
+.T
+what is a braai?
+.W
+what is a braai?
+If you are a South African, you definitely know the answer to that question. So you probably don’t need to read this. If, as a South African citizen, you don’t know what a braai is, you should not have been given that citizenship in the first place. However, for those of you that don’t know what a braai is, here is Wikipedia’s description of it:
+“The word braaivleis is Afrikaans for “roasted meat.”
+The word braai (pronounced “bry”, rhyming with the word “cry”; plural braais) is Afrikaans for “barbecue” or “roast” and is a social custom in South Africa, Namibia, Zimbabwe and Zambia. It originated with the Afrikaner people, but has since been adopted by South Africans of many ethnic backgrounds. The word vleis is Afrikaans for “meat”.
+The word has been adopted by English-speaking South Africans and can be regarded as another word for barbecue, in that it serves as a verb when describing how food is cooked and a noun when describing the cooking equipment, such as a grill. The traditions around a braai can be considerably different from a barbecue, however, even if the method of food preparation is very similar.
+While wood formerly was the most widely-used braai fuel, in modern times the use of charcoal has increased due to its convenience, as with barbecues elsewhere in the world. There has however been a renewed interest in the use of wood after the South African government started with its invasive plant species removal program. An important distinction between a braai and a barbecue is that it’s fairly uncommon for a braai to use gas rather than an open flame.
+THE “BRING & BRAAI”
+Similar to a potluck party, this is a grand social event (but still casual and laid-back) where family and friends converge on a picnic spot or someone’s home (normally the garden or verandah) with their own meat, salad, or side dish in hand. Meats are the star of the South African braai. They typically include boerewors, sosaties, kebabs, marinated chicken, pork and lamb chops, steaks, sausages of different flavors and thickness, and possibly even a rack or two of spareribs. Fish and crayfish (kreef in Afrikaans) are also popular in coastal areas.
+The other main part of the meal is pap (pronounced /p?p/, meaning porridge), or the krummelpap (“crumb porridge”), traditionally eaten with the meat. This dish is a staple of local African communities and may be eaten with tomato and onion sauce,monkeygland sauce or the more spicy chakalaka at a braai.
+Sometimes this activity is also known as a “chop ‘n dop” (dop being Afrikaans slang for an alcoholic drink, literally meaning “cap” or “bottle top”) when more drinking than eating is done.
+SOCIAL NORMS
+A braai is a social occasion that has specific traditions and social norms. In black and white South African culture, women rarely braai (cook) meat at a social gathering, as this is normally the preserve of men. The men gather round the braai or braaistand (the fire or grill) outdoors and cook the food, while women prepare the pap, salads, desserts, and vegetables for the meal in the kitchen. The meal is subsequently eaten outside by the fire/braai, since the activity is normally engaged in during the long summer months. The braaing (cooking) of the meat is not the prerogative of all the men attending, as one person would normally be in charge. He will attend to the fire, check that the coals are ready, and braai (cook) the meat. Other men may assist but generally only partake in fireside conversation. The person in charge is known as the braaier (chef), and if his skills are recognised, could be called upon to attend to the braai (BBQ) at other occasions as well.”
+If you have a different oppinion about what a braai really is, please leave your comments.
+.I 9
+.T 
+feature extraction
+.W
+Feature extraction
+Jump to navigationJump to search
+In machine learning, pattern recognition and in image processing, feature extraction starts from an initial set of measured data and builds derived values (features) intended to be informative and non-redundant, facilitating the subsequent learning and generalization steps, and in some cases leading to better human interpretations. Feature extraction is related to dimensionality reduction.
+When the input data to an algorithm is too large to be processed and it is suspected to be redundant (e.g. the same measurement in both feet and meters, or the repetitiveness of images presented as pixels), then it can be transformed into a reduced set of features (also named a feature vector). Determining a subset of the initial features is called feature selection.[1] The selected features are expected to contain the relevant information from the input data, so that the desired task can be performed by using this reduced representation instead of the complete initial data.
+General
+Feature extraction involves reducing the amount of resources required to describe a large set of data. When performing analysis of complex data one of the major problems stems from the number of variables involved. Analysis with a large number of variables generally requires a large amount of memory and computation power, also it may cause a classification algorithm to overfit to training samples and generalize poorly to new samples. Feature extraction is a general term for methods of constructing combinations of the variables to get around these problems while still describing the data with sufficient accuracy. Many machine learning practitioners believe that properly optimized feature extraction is the key to effective model construction.[2]
+Results can be improved using constructed sets of application-dependent features, typically built by an expert. One such process is called feature engineering. Alternatively, general dimensionality reduction techniques are used such as:
+Independent component analysis
+Isomap
+Kernel PCA
+Latent semantic analysis
+Partial least squares
+Principal component analysis
+Multifactor dimensionality reduction
+Nonlinear dimensionality reduction
+Multilinear Principal Component Analysis
+Multilinear subspace learning
+Semidefinite embedding
+Autoencoder
+Image processing
+One very important area of application is image processing, in which algorithms are used to detect and isolate various desired portions or shapes (features) of a digitized image or video stream. It is particularly important in the area of optical character recognition.
+Low-level
+Edge detection
+Corner detection
+Blob detection
+Ridge detection
+Scale-invariant feature transform
+Curvature
+Edge direction, changing intensity, autocorrelation.
+Image motion
+Motion detection. Area based, differential approach. Optical flow.
+Shape based
+Thresholding
+Blob extraction
+Template matching
+Hough transform
+Lines
+Circles/ellipses
+Arbitrary shapes (generalized Hough transform)
+Works with any parameterizable feature (class variables, cluster detection, etc..)
+Flexible methods
+Deformable, parameterized shapes
+Active contours (snakes)
+Feature extraction in software
+Many data analysis software packages provide for feature extraction and dimension reduction. Common numerical programming environments such as MATLAB, SciLab, NumPy and the R language provide some of the simpler feature extraction techniques (e.g. principal component analysis) via built-in commands. More specific algorithms are often available as publicly available scripts or third-party add-ons. There are also software packages targeting specific software machine learning applications that specialize in feature extraction.[
+.I 10
+.T
+Database Management Systems (DBMS)
+.W
+Database Management Systems (DBMS)
+Overview
+Large-scale computing services revolve around the management, distribution and analysis of massive data sets. For over 40 years, Berkeley has led the world in recognizing and advancing the centrality of data in computing. Faculty and students at Berkeley have repeatedly defined and redefined the broad database field, combining deep intellectual impact with the birth of multi-billion dollar industries, including relational databases, RAID storage, scalable Internet search and big data analytics. Berkeley also gave birth to many of the most widely-used open source systems in the field including INGRES, Postgres, BerkeleyDB and Apache Spark. Today, our research continues to push the boundaries of data-centric computing, taking the foundations of data management to a broad array of emerging scenarios.
+Database group web site: db.cs.berkeley.edu
+Topics
+Scalable data analysis and query processing
+Distributed machine learning, graph analytics, physical and logical optimization of machine learning pipelines, query processing on compressed data, performance prediction, streaming applications.
+Low-latency model serving
+Online model management and maintenance, prediction serving, real-time personalization, latency-accuracy tradeoffs and edge computing for large-scale models.
+Consistency, concurrency, coordination and reliability
+Coordination avoidance, consistency and monotonicity analysis, transaction isolation levels and protocols, distributed analytics, fault tolerance and fault injection.
+Declarative languages and runtime systems
+Declarative programming applied to distributed systems, networking, machine learning and interactive visualization.
+Data storage and physical design
+Hot and cold storage, immutable data structures, indexing, data skipping, versioning, implications of hardware evolution.
+Metadata management
+Data lineage, versioning, usage tracking and collective intelligence, scalability of metadata management services, metadata representations.
+Data cleaning, data transformation and crowdsourcing
+Human-data interaction including interactive transformation and crowdsourcing, machine learning for data cleaning, statistical properties of data cleaning pipelines.
+Secure data processing
+Data processing under homomorphic encryption, data compression and encryption, differential privacy, databases in secure hardware enclaves.
+Data visualization and interaction
+Interactive querying and transformation, progressive query visualization, predictive interaction, languages for interactive visualization.
+.I 11
+.T
+13 Of 2015's Hottest Topics In Computer Science Research
+.W
+13 Of 2015's Hottest Topics In Computer Science Research
+This question originally appeared on Quora: What are currently the hot topics in computer science research?
+Answer by Igor Markov, Michigan EECS Prof - currently at Google, on Quora
+There are several major closed-form challenges in Computer Science, such as
+the P versus NP problem,
+finding better algorithms for Matrix multiplication and Fourier transform,
+building Quantum computers that can quickly factorize numbers into primes (Shor's algorithm), or at least explaining why we are still so far from this goal.
+However, the hottest topics are broad and intentionally defined with some vagueness, to encourage out-of-the-box thinking. For such topics, zooming in on the right questions often marks significant progress in itself.
+Here's my list for 2015.
+Abundant-data applications, algorithms, and architectures are a meta-topic that includes research avenues such as data mining (quickly finding relatively simple patterns in massive amounts of loosely structured data, evaluating and labeling data, etc), machine learning (building mathematical models that represent structure and statistical trends in data, with good predictive properties), hardware architectures to process more data than is possible today.
+Artificial intelligence and robotics - broadly, figuring out how to formalize human capabilities, which currently appear beyond the reach of computers and robots, then make computers and robots more efficient at it. Self-driving cars and swarms of search-and-rescue robots are a good illustration. In the past, once good model were found for something (such as computer-aided design of electronic circuits), this research moves into a different field - the design of efficient algorithms, statistical models, computing hardware, etc.
+.I 12
+.T
+Areas of Research in Computer Science
+.W
+Areas of Research in Computer Science
+Main content
+Computer science is an exciting, fast moving and diverse field. It pervades many areas from science to industry and plays a vital role in all aspects of society. Our internationally renowned faculty covers the many facets of modern computer science, from the underlying theory to the design of practical systems. The strength and reputation of the department’s research attract business and industry collaborations around the world.
+   Data Management and Machine Learning
+ Data Management and Machine Learning
+Computers have fundamentally changed the way the world produces, manages, processes and analyzes data. Not only does the amount of data keep growing every day, but what we do with the data and how we extract value from it is becoming a dominant theme in our society.
+Research area details
+Information and System Security
+ Information and System Security
+Information and System Security is both a problem of fundamental importance for modern society and a scientific discipline with its own foundations and methods.
+Research area details
+ line
+Networked Systems and Parallel Computing 
+Networked Systems and Parallel Computing
+ETH Zurich has a long tradition of tackling fundamental, long-term research problems in computer science by building and learning from complete computer systems.
+Research area details
+Pervasive Computing and Cyberphysical Systems
+ Pervasive Computing and Cyberphysical Systems
+Computing pervades more and more sectors of the physical world and computer science is becoming pervasive in all sectors of society.
+Research area details
+ line
+Programming Languages and Software Engineering
+ Programming Languages and Software Engineering
+Research in this area ranges from theoretical underpinnings to practical tools supporting today’s ambitious software projects. Topics of particular attention include: programming language design, software performance, and concurrency, as well as program analysis, synthesis, verification and testing.
+Research area details
+Theory and Algorithms
+ Theory and Algorithms
+Computer science has the dual nature of being an engineering science as well as a basic science (like physics), concerned with fundamental concepts including processes, computation, information and communication.
+Research area details
+ line
+Visual Computing
+ Visual Computing
+The area of visual computing at ETH Zurich groups research activities in computer graphics, computer vision, geometry processing, human-computer interaction and visualization.
+.I 13
+.T
+Postgraduate Scholarships
+.W
+Postgraduate Scholarships
+POSTGRADUATE SCHOLARSHIPS
+Scholarships for South African studies
+Scholarships for International studies
+SCHOLARSHIPS FOR SOUTH AFRICAN STUDIES
+UP Postgraduate Scholarships
+Type of
+scholarship
+Honours
+Masters
+Doctoral
+Applications open
+No applications. Automatic consideration by the Faculty Research Committee.
+Eligibility
+• All UP postgraduate students registered for an honours, research master’s (see definition in UP Postgraduate Policy document) or a doctoral programme.
+• A student must be registered by 31 May of the year in which the award is made in order to be considered for such an award.
+• Students who enrol for a second or multiple study programme(s) will not be considered for a further scholarship award irrespective of whether the previous programme(s) was/were terminated or successfully completed.
+• The only exception is scholarships for study in the Faculty of Theology in MTh, PhD and DD programmes where scholarships may be awarded to master’s and doctoral students who are already in possession of a previous master’s or doctoral degree obtained in the Faculty of Theology.
+• Students who are registered for master’s programmes that lead to professional qualifications are not eligible for these scholarships, e.g MMed, MMedVet, MBA, MPA and MPhil (Applied Theology).
+• For scholarships awarded at honours level, eligibility will be determined by the Faculty Admissions Committee, and a candidate who has enrolled will be eligible for the award of a postgraduate scholarship. Awards to particular candidates may be determined by the faculty research committees based on consideration of the performance of the candidates to whom awards are made, as well as the other criteria as decided upon by the Faculty Research Committee.
+• For scholarships awarded at master’s and doctoral level, eligibility will be determined by the Faculty through the admission of a candidate to the master’s or doctoral program. Awards to particular candidates will be determined by the Faculty Research Committee that may include the performance of the candidates to whom they make awards, as well as the other criteria as decided by the Faculty Research Committee.
+• Scholarships are awarded to students on the grounds of the contribution that their study is likely to make to specific focal areas of research, which are determined by the University from time to time.
+Fields of study
+supported
+Any academic field
+Any academic field. 
+However, students who are doing preparatory master’s degrees are not considered.
+Any academic field.
+However, students who are doing preparatory master’s degrees are not considered.
+Value of scholarship
+R18 600
+R21 600
+R24 900
+Period of support
+1 year
+Information website
+www.up.ac.za/feesfunding (link – Postgraduate funding, relevant documents)
+Contact information
+Ms Mpai Mphunngoa
+mpai.mphunngoa@up.ac.za
+Tel: +27 (0)12 420 6850
+UP Postgraduate Research Support Scholarship
+Type of scholarship
+Doctoral
+Applications open
+Requests submitted via the office of the Deputy Dean of Research in the Faculty
+Applications close
+New applications: End January
+Renewals: Mid January
+Eligibility
+• The candidate must be registered for a PhD study programme.
+• The candidates must be within the first 3 years of their PhD registration.
+• Preference is given to non-South Africans, although not exclusively.
+Fields of study
+supported
+Any academic field
+Value of scholarship
+R60 000 p.a.
+Period of support
+3 years (The bursary amount as indicated above is awarded during the first year of study. A bursary for the second and third years of study may be awarded provided the Bursary Panel approves such an award
+Contact information
+Office of the Faculty Deputy Dean of Research in the Faculty
+  UP Support Bursaries
+Type of
+scholarship
+Honours
+Masters
+Doctoral
+Applications open
+1 August of the year preceding studies
+Applications close
+30 September of the year preceding studies
+Eligibility
+• A limited number of bursaries, with specific criteria, are made available annually from funds that were donated and placed under the management of the University of Pretoria. The bursaries are available to undergraduate and postgraduate students who register for full-time studies and who are financially needy and/or academically deserving, and who meet the specific criteria of the bursary. Students who are South African citizens or hold permanent residency in South Africa may be considered for these bursaries.
+• Other bursaries/loans received by the applicant will be taken into consideration to determine financial need where applicable.
+• It is advisable that students who are financially needy should also apply for NSFAS funding and not only for UP support bursaries, which are limited. Both funding applications are done on the same online application system.
+• Special motivation or proof of meeting the criteria for some of the UP support bursaries has to be submitted as part of the application on the University’s online funding application system. These supporting documents will be indicated to you on the application system.
+• University support bursaries are not guaranteed and are subject to the availability of funds.
+• Also for students with special needs and disabilities.
+Fields of study
+supported
+Per specific criteria
+Value of bursary
+Varies
+How to apply
+Online application on www.up.ac.za/feesfunding
+Information website
+www.up.ac.za/feesfunding (link – Postgraduate funding, relevant documents)
+Contact information
+UP Client Service Centre
+Tel: +27 (0)12 420 3111
+ UP Commonwealth Doctoral Scholarship
+Type of scholarship
+Doctoral
+Applications open
+Mid-May of the year preceding study
+Applications close
+30 August of the year preceding study
+Eligibility
+• Citizens of the Commonwealth countries may apply. South African citizens are not eligible.
+• The scholarship is tenable at the University of Pretoria.
+• Applicants must have completed a degree that will give them admission to a doctoral programme a maximum of three years prior to their application for this scholarship.
+• Applicants must not be older than 35 years of age at the time of application. 
+• Master’s students currently registered at the University of Pretoria are not eligible to apply.
+Fields of study
+supported
+Any academic field
+Value of scholarship
+R120 000 p.a.
+Period of support
+3 years
+How to apply
+Downloadable application form http://web.up.ac.za/getForm.asp
+Contact information
+Leanne van Zyl
+leanne.vanzyl@up.ac.za
+Tel: +27 (0)12 420 6639
+ NATIONAL RESEARCH FOUNDATION (NRF)
+NRF/DST Innovation Scholarships for full-time master’s and doctoral study in South Africa
+Type of Scholarship
+Masters
+Doctoral
+Applications open
+Determined by NRF on annual basis
+Applications close
+Contact the Postgraduate Desk in the CSC for the internal closing date.
+Eligibility
+• South African citizens and South African permanent residents may apply.
+• The awarding of the scholarship will be based on past, current and potential academic performance. The selection criteria will include academic merit, promise of research ability, leadership qualities and previous awards, various prizes and honours.
+• In addition to the above, the award of the scholarship will be based on the feasibility and merit of the applicant’s research project proposal.
+• Scholarship-holders must not hold full-time salaried employment during the tenure of the award.
+• Applicants who already hold a qualification at this level are not eligible to apply.
+• South African citizens and South African permanent residents may apply.
+• The awarding of the scholarship will be based on past, current and potential academic performance. The selection criteria will include academic merit, promise of research ability, leadership qualities and previous awards, various prizes and honours.
+• In addition to the above, the award of the scholarship will be based on the feasibility and merit of the applicant’s research project proposal.
+• Scholarship-holders must not hold full-time salaried employment during the tenure of the award.
+• Applicants who already hold a qualification at this level are not eligible to apply.
+Fields of study
+supported
+Biotechnology, Cellular and Molecular Biology, Engineering, Computer Science, Physics, Astronomy, Mathematical Sciences, Nanotechnology, Chemistry, Earth Sciences, Ecology, Medical Sciences, Social Sciences, Humanities.
+Biotechnology, Cellular and Molecular Biology, Engineering, Computer Science, Physics, Astronomy, Mathematical Sciences, Nanotechnology, Chemistry, Earth Sciences, Ecology, Medical Sciences, Social Sciences, Humanities.
+Value of scholarship
+R70 000 p.a.
+R100 000 p.a.
+Travel grant
+Maximum R15 000 for the tenure of the scholarship
+Maximum R15 000 (local travel) up to R45 000 (international travel) for the tenure of the scholarship
+Period of support
+2 years
+3 years
+How to apply
+Online application /s:/nrfsubmission.nrf.ac.za/
+Contact information
+Leanne van Zyl            
+leanne.vanzyl@up.ac.za            
+Tel: +27 (0)12 420 6639                                    
+Mpai Mphunngoa
+.I 14
+.T
+UCT Postgraduate degree funding Noticeboard
+.W
+Noticeboard
+Description	Career	Closing date	Contact
+Schmidt Science Fellows 2019-2020	Doctoral	13 August 2018	 
+2018 UCT Staff PhD Bursary	Doctoral	15 August 2018	For enquiries contact: pgfunding@uct.ac.za
+UCT Knowledge Co-op bursaries / UCT engaged studies bursaries 2018	Masters	15 August 2018	
+For enquiries regarding UCT Knowledge Co-op topics and conditions contact
+knowledgecoop.admin@uct.ac.za
+UCT Conference Travel Grants- application for conference travel between October 2018 and March 2019	Masters, Doctoral	31 August 2018	
+Contacts: Nuraan.kafaar@uct.ac.za
+Charmaine.Mcbride@uct.ac.za
+Scholarship for International Travel-application for International travel between October 2018 and March 2019	Masters, Doctoral	31 August 2018	
+Contacts: Nuraan.kafaar@uct.ac.za
+Charmaine.Mcbride@uct.ac.za
+Brian O' Connell Scholarship Programme Application form 2018	Master's	01 September 2018	 
+Fogarty PhD Fellowships in HIV-associated tuberculosis	Doctoral	21 September 2018	
+Contact: Kathryn.Wood@uct.ac.za
+Margaret McNamara Educational Grant for women from developing countries	Honours, Master's and Doctoral	14 September 2018	Contact: southafrica@mmeg.org
+Department of Psychiatry and Mental Health -
+Doctoral Scholarship	Health Sciences, Doctoral	See Notice	 
+Department of Psychiatry and Mental Health -
+Doctoral Scholarship (3-years)	Health Sciences, Doctoral	See Notice	 
+Department of Higher Education and Training South Africa - International Scholarship Opportunities	Funding Schemes	See Notice	Contact information
+Scholarships Management, University Education Branch, Department of Higher Education and Training
+Wellcome Trust - Humanities and Social Sciences funding schemes	Funding Schemes	See Notice	Contact information
+Wellcome Trust
+Swiss Government Excellence Scholarships	Honours, Master's and Doctoral	See Notice	See website for further information
+HBGH Fund finder	Honours, Master's and Doctoral	See Notice	HBVG Fund Finders
+European Master's Degree in Human Rights and Democratisation 2017/2018	Master's	See Notice	Website
+Two PhD student positions in Nonlinear Dynamics and Chaos	Doctoral	See Notice	Charalampos (Haris) Skokos
+Senior Lecturer
+Department of Mathematics and Applied Mathematics (MAM) at the University of Cape Town (UCT)
+ESASTAP 2020 - Strengthening Technology, Research and Innovation Cooperation between Europe and South Africa	Research Funding	Various	ESASTAP 2020 Contact information-
+The ESASTAP 2020 project is mainly funded by the European Commission with contribution of the Department of Science and Technology of South Africa under Horizon 2020
+Chevening Scholarship	See Notice	Visit website for opening and closing dates	www.chevening.org
+The Association of Commonwealth Universities Scholarships	See Notice	Various	Scholarship information
+Global Scholarship at Cambridge University	See Notice	USA: mid-October and International: early December	Further information may be found via www.gatescambridge.org
+Global Education - Russian Goverment Educational Program	See Notice	See Notice	www.educationglobal.ru
+Google Scholarships	See Notice	See Notice	Google Careers
+ERASMUS MUNDUS Programmes- International Scholarships	Master's and Doctoral	See notice	Stephanie Van Heerden
+Exchanges Officer, IAPO: Mobility, Partnerships & Programs
+Academy of Science of South Africa Survey: Responsibility in the Life Sciences	See article	See article	Click here to take survey
+New Zealand Development Commonwealth Scholarships	Honours, Master's and Doctoral	See Notice	New Zealand Aid Programme Manager 
+New Zealand High Commission
+PhD and MSc Scholarship in Multiscale Modelling of Cell Therapies for Myocardial Infarction	Master's and Doctoral	See Notice	Prof Thomas Franz 
+Department of Human Biology Division of Biomedical Engineering
+University of Cape Town
+NRF-HSRC Honours Labour Market Bursaries	See Notice	See Notice	Tel: +27 (0)21 650 5708
+Email: info@data1st.org
+Scholarships Offered For Master's And Phd Studies DST/NRF Collaborative Postgraduate Training Programme	Master's and Doctoral	See notice	A/Prof Muazzam Jacobs
+Division of Immunology Institute of Infectious Disease and Molecular Medicine
+University of Cape Town
+MEXT (Ministry of Education, Culture, Sports, Science, and Technology, Japan) Scholarship for 2018	Honours, Master's and Doctoral	See notice	Science and Technology Tokyo Team
+Embassy of the Republic of South Africa
+NRF - National Research Foundation Postgraduate Conference Travel Grant Application	Master's and Doctoral	Various: See document	Ms Bongiwe Ndamane
++27 (0)21 650 3926
+Japan Scholarship Program (ABE Initiative)	Master's	See notice	Application form
+Japan Scholarship Program (ABE Initiative)	Master's	See notice	Application form
+Oppenheimer Memorial Trust International Study Awards for Postgraduate Study	Master's, Doctoral and Postdoctoral	Doctoral and Postdoctoral: 28 February 2018
+Master's: 31 March 2018	The Manager: Oppenheimer Memorial Trust
++27 (0)11 551 9502
+Email: CDigby@omt.org.za
+Oppenheimer Memorial Trust Local Study Awards for Postgraduate Study	Master's, Doctoral and Postdoctoral	Minimum of four months ahead of the intended date of registration at university	The Manager: Oppenheimer Memorial Trust
++27 (0)11 551 9502
+Email: CDigby@omt.org.za
+ScholarGeek - global online search engine for universities and scholarships	Honours, Master's and Doctoral	Various	See website
+Association of South African Women in Science & Engineering (SAWISE) Scholarships	Honours, Master's and Doctoral	Various	SA WISE
+FoodBev SETA - Bursary Application Form Research And Innovation Bursary Master's & Doctorate	Master's and Doctoral	See Notice	FoodBev SETA
+MRC - South African Medical Research Council	Honours, Master's and Doctoral	See Website	http://www.mrc.ac.za/home.htm
+Department of Science and technology - News	Honours, Master's and Doctoral	See Website	www.dst.gov.za/index.php/media-room/latest-news
+Call for papers: International Journal of Emerging Knowledge	Honours, Master's and Doctoral	See Notice	Bloomfield Academic Society
+(TWAS) The World Academy of Science Fellowships	Honours, Master's and Doctoral	See Notice	TWAS and Partner Contact
+SKILL (Stimulating Knowledge Innovation through Life-long Learning) Programme - University Amsterdam	Master's and Doctoral	See Notice	SAVUSA (South Africa - VU University Amsterdam - Strategic Alliances)
+University Amsterdam
+List of 45 Scholarships for African women and Developing Countries	Honours, Master's and Doctoral	See Notice	Sourced from AfterSchoolAfrica.com
+PhD's.org	Honours, Master's and Doctoral	See Notice	See notice
+King's College London	Honours, Master's and Doctoral	See Notice	King's College London website
+Top 80 Annual Study Abroad Scholarships for African Students and Developing Countries - by After School Africa	Honours, Master's and Doctoral	See Notice	See notice
+UK MRC - Further funding to support Research Leaders in sub-Saharan Africa	Honours, Master's and Doctoral	See Notice	African Research leaders
+AusAID Development Research Awards Scheme (ADRAS) Research Theme	Honours, Master's and Doctoral	See Notice	AusAID Africa and Middle East webpage
+SARChI Chair in Nanophotonics MSc and PhD bursaries	Master's and Doctoral	See Notice	Prof JR Botha
+Nelson Mandela Metropolitan University
+University of the Free State - Funding opportunities for MA and PhD students and Postdoctoral Research Fellows in Southern and Central African Studies	Master's and Doctoral	Submit application as soon as possible	See notice for further information
+The Smithsonian Institute - Fellowships	Honours, Master's and Doctoral	See Notice	See notice
+Royal Academy for Overseas Sciences - Yearly Competitions	Master's and Doctoral	See Notice	See notice
+Studentship Opportunities in Southern Ocean Carbon and Climate Research	Master's and Doctoral	See Notice	See notice
+Discounted accommodation rates for UCT academics and doctoral students when staying in London, UK	Doctoral	See Notice	Goodenough Club
+23 Mecklenburgh Square, London
+Passenger Rail Agency of South Africa (PRASA) will be awarding 250 bursaries to Engineering students nation-wide	Honours	See Website for details	Passenger Rail Agency of South Africa (PRASA) 
++27 (0)11 773 1426
+CSIR - PhD/Masters position at the National laser Centre	Master's and Doctoral	Applications will close once positions are filled	Ms Nomhle Koenane
+Human Resources Manager
+National Laser Centre
+S.E.T for Life	Honours, Master's and Doctoral	See Notice	See website for further details
+Korean Government Scholarship Program (KGSP)	Master's and Doctoral	January/February of the year	See website for further details
+Research Professional Africa New funding opportunities	Honours, Master's and Doctoral	See Notice	See Website for further details
+New Zealand Development Scholarships For Postgraduate Study In New Zealand	Postgraduate Diplomas and Master's	See Notice	New Zealand Aid Programme Manager
+New Zealand High Commission
+Pretoria, South Africa
+Centre for International Mobility (CIMO)	Doctoral	At least 5 months before the intended scholarship period	Please see notice
+AfterSchoolAfrica.com	Honours, Master's and Doctoral	External Websites	Please see notice
+University of Cambridge Scholarships for South African Students	Honours, Master's and Doctoral	External Website	Please see notice
+The Rhodes Scholarships for Southern Africa (including South Africa, Botswana, Lesotho, Malawi, Namibia and Swaziland)	Honours, Master's and Doctoral	External Website	Please see notice
+Canon Collins Trust	Honours, Master's and Doctoral	External Website	Please see notice
+University of Pretoria - Postgraduate & Postdoctoral funded opportunities for various research themes	Master's, Doctoral and PDoc	No Fixed closing date	For further Information
+The Academy of Sciences for the Developing World - Scholarship Opportunities	Honours, Master's and Doctoral	Various	Please see notice
+SANCOR(South Africa Network for Coastal & Oceanic Research) opportunities for postgraduate students in fields relating to marine science	Honours, Master's and Doctoral	Various	See notice
+SANBI(South African National Biodiversity Institute) Postgraduate Bursaries Opportunities	Honours, Master's and Doctoral	Various	See notice
+Off Campus Student Accommodation Services (OCSAS)	 	Please see Notice	OCSAS Queries
++27 (0)21 650 4394
+World Bank - Robert S.McNamara Doctoral Fellowship Programme	Doctoral	Please see notice	RSM Website
+Helpful websites if you're searching for International or Local Scholarships	Honours, Master's and Doctoral	External Websites	Please see notice
+.I 15
+.T
+321 Scholarships in South Africa
+.W
+College Scholarships for International Students
+College Scholarships for International Students for the year 2018-2019 best scholarships fully funded. Below, find ten amazing scholarships, for all types of students, which also span age range qualifications from high school freshmen all the way thr...
+Continue reading
+Scholarships in China for Medical and Engineering studies 2018-2019
+Scholarships in China for Medical and Engineering studies 2018-2019. Applications are invited for Tianjin University International Student Scholarship for non-Chinese students to study in China. The university awards full and partial scholarships to...
+Continue reading
+MBBS in Ukraine Scholarships Study in Ukraine 2018-2019
+They also allow people to get mbbs in Ukraine with fully funded scholarships, you can get this scholarship here too. This scholarship will be available to a student who must be a STEM graduate and the amount of $2000 WILL be given the aspiring studen...
+Continue reading
+Scholarships In Australia 2018-2019 Fully Funded For International Students
+The Australian Government provide a lot of Scholarships for International students for pursuing Ph.D., Masters and Under graduation. ScholarMintle listed the top 19 scholarships for the International students to better understand the whole process of...
+Continue reading
+George Washington University Global Leaders Fellowship Program 2018-2019
+The Global leader award is one of the best scholarship awards for talented students whom upon acceptance to the program will get a fully funded education at Georgia Institute of Technology in the United States. 
+Continue reading
+Full Funded Academic Scholarships In Germany 2018-2019
+Fully Funded scholarships In Germany for the year 2018-2019, best scholarships for Ph.D., MS, and Undergraduate.The Wült Institute’s (Germany), Faculty of Technology and Business is offering a full scholarship for many areas such as Project Managemen...
+Continue reading
+scholarships in Nigeria 2018-2019 Fully Funded
+scholarships in Nigeria 2018-2019 Fully FundedThis scholarship is one of the most attractive packages which you can use to fund your education with fully funded scholarships. These scholarships will cover your Air Fare, monthly payment and all other...
+Continue reading
+Full Academic Scholarships - Germany
+The Wült Institute's (Germany), faculty of Technology and Business is offering full scholarships for its advanced diploma's in many areas such as Project Management, Human Resources Management and Occupational Health and Safety Management (to name a...
+Continue reading
+LPG Young Talent Grants
+The European LPG Association, AEGPL is introducing the LPG Young Talent Grant. With this programme, AEGPL aims at rewarding creative and innovative projects developed by talented young people with an interest in the energy sector. The LPG Young...
+Continue reading
+GeneTex for Education
+GeneTex believes in accelerating scientific advancement and the notion that the genesis of future discoveries begins with the support of young scientists now. The GeneTex Scholarship Program will award a $2000 (USD) scholarship to students pursuing a 
+.I 16
+.T
+NRF Opportunities
+.W
+NRF Opportunities
+Grants Management & Systems Administration (GMSA)
+The NRF supports students, mainly at postgraduate level, in two different ways:
+Free-standing scholarships and postdoctoral fellowships, for which students/postdoctoral research fellows apply online and compete individually on merit.
+Grantholder-linked bursaries and postdoctoral fellowships, where a grantholder is awarded a number of bursaries and fellowships within his/her research grant. The grantholder is responsible for selecting the most appropriate and worthy students/fellows for the bursaries and fellowship.
+Freestanding Scholarships & Fellowships
+Free-standing scholarships and fellowships are awarded on a competitive basis directly to students undertaking full-time study. Students must apply for these awards themselves and remain responsible for the submission of all required documentation.
+These scholarships are targeted at SA citizens and permanent residents only with the following exceptions:
+Postdoctoral fellowships allow applications from all nationalities and are awarded to applications of any nationality, based on a pre-determined quota, and the awarded funds have to be used in South Africa.
+Innovation scholarships allow applications both South African citizens,  permanent residents and foreign nationals
+Postdoctoral fellowships - Fellows who have obtained their PhD within the last five years may apply. Applicants who wish to undertake postdoctoral training through their PhD institution, PhD supervisor or current institution must submit a special motivation providing reasons for remaining at the same institution.
+Prestigious and Equity Scholarships/Fellowships
+These scholarships are available for full-time study from Honours/BTech level to postdoctoral fellowship level in South Africa.
+Scarce Skills Development Fund Scholarships/Fellowships
+This scholarship aims at addressing the shortage of qualified graduates in certain identified key areas of in the biological, medical, mathematical and natural sciences, financial management, information technology and computer sciences, engineering, demography and tourism.
+Innovation Scholarships/Fellowships
+This scholarship was developed to support graduates looking to further their studies in the science, engineering and technology (SET) as well as in the social sciences and humanities (SSH).  The scholarships are awarded for Honours, Masters and doctoral studies in South Africa as well as for doctoral studies abroad.
+DAAD/NRF Joint In-country Scholarships
+The German Academic Exchange Service (DAAD) in partnership with the NRF offers a scholarship aimed at the development of university staff as well as other sectors requiring academically trained personnel. The programme addresses candidates who are acquiring their Master’s or doctoral degrees.
+Renewable and Sustainable Energy Scholarships (RSES)
+The RSES scholarship is designed to enhance science, engineering and technology (SET) enrolment into postgraduate studies (Master’s and PhD) in the following areas:
+·         Energy infrastructure optimisation
+Energy efficiency and demand side management
+Understanding the impact of energy use on the environment
+The role of energy in stimulating socio-economic development
+Cleaner fossil fuel development, including clean coal technologies
+Renewable energy
+Energy planning and modelling
+Energy policy research
+Alternative energy
+Doctoral Studies in Energy Efficiency and Renewable Energy (DSEE)
+This opportunity is made available to students who wish to pursue a doctoral degree in energy efficiency at Concordia University in Canada. 
+South African Nuclear Human Asset and Research Programme (SANHARP) Scholarships
+SANHARP’s aim is to expand the skills and research capacity of the nuclear industry, supporting mathematics and science learners who are part of the Energy Human Capital Development & Knowledge Generation Programme as well as undergraduate and postgraduate studies at universities.
+Professional Development Programme (PDP)
+The PDP is aimed at creating an opportunity for research institutions such as science councils, National Research Facilities and museums to attract, retain and train young scientists at doctoral and postdoctoral level within their strategic research programmes and projects.
+Grantholder-linked Bursaries
+Grantholder-linked bursaries, where a grantholder is awarded a number of bursaries within his/her research grant. The grantholder is responsible for selecting the most appropriate and worthy students for the bursaries
+African Coelacanth Ecosystem Programme (ACEP)
+ACEP is a research platform that aims to provide access to research infrastructure (e.g. ship’s time, remote operated vehicles, dive teams etc.) and associated funding for the research community to undertake research along the east coast of South Africa.
+African Origins Platform (AOP) Strategy
+AOP Strategy provides direction for a holistic approach towards the development of palaeosciences and related disciplines. This strategy addresses issues of public engagement, human resources, challenges faced by universities and museums as research institutions and repositories for collections, and the legal landscape and tourism development in palaeosciences.
+Blue Skies Research Programme
+This is a highly competitive funding instrument that aims to bring about new and unpredictable scientific/technological/scholarly discoveries. It provides the space for novel fundamental inquiry that can be described as multi-dimensional, self-initiated and curiosity-driven, necessitating high investment risks, addressing new phenomena, and pushing forward the frontiers of knowledge
+Centres of Excellence (CoE)
+The applicant must be an established researcher and hold a Doctoral degree, and must have a strong network of collaborators and fellow researchers working in similar and different, but related research fields. The network must span departments, schools and institutions and have an excellent and extended track record of research outputs.
+Community Engagement Programme
+The Community Engagement Programme is a competitive funding instrument providing the space for research that contributes both to knowledge production within the ambit of community engagement (where ‘community’ is defined in its broadest sense), as well as to research on the processes and dynamics of engagement from the perspective of the higher education sector.
+Competitive Programme for Rated Researchers (CPRR)
+The CPRR is a discipline-based funding instrument that supports mainly basic research as the foundation of knowledge production in the Humanities, Social and Natural Sciences. As a competitive funding instrument, the main eligibility criteria are:
+The current NRF rating of the principal applicant; and
+The scientific merit of the research proposal.
+Competitive Support for Unrated Researchers (CSUR)
+The aim of this funding instrument is to provide research support to researchers, working in any research field, who do not, for a variety of reasons, hold a current NRF rating and who are not participating in any of the NRF capacity development funding instruments. The strategic objectives of CSUR are to:
+Strengthen the nation’s research base;
+Increase the nation’s research outputs; and
+Support the training of postgraduate students.
+Education Research in South Africa
+The Call for funding for Education Research in South Africa seeks research proposals that address:
+The overarching theme of ‘Teaching and learning interactions that shape the qualitative outcomes of education’ at all levels of the education and training system
+National priorities in South Africa (a strong indication must be provided)
+Systemic implications (either through large-scale empirical research or meta-analyses of past/existing small-scale research projects)
+Only proposals submitted by consortia reflecting certain minimum conditions will be accepted.
+Equipment-related Travel and Training Grants
+Funds are available for both national and international travel in order to support researchers who require access to equipment that is not available either regionally and/or nationally. The mobility grants are divided into two portfolios of opportunities, namely Equipment-related Travel Grants and Equipment-related Training Grants.
+Global Change, Society and Sustainability Research Programme (GCSSRP)
+GCSSRP is a long-term large-scale structured and coordinated research funding instrument implemented to address the identified fundamental research questions and provide research-based evidence required for socioeconomic development, sustainability and social cohesion.
+Human Capital Development for Multi-Wavelength Astronomy
+This funding instrument is aimed at researchers at South African higher education institutions or national research facilities working under the rubric of multi-wavelength astronomy, including optical and gamma-ray astronomy and the supporting theory.
+Incentive Funding for Rated Researchers (IFRR)
+The IFRR funding instrument was created with the aim of incentivising excellent research. The collateral objectives of the funding instrument include encouraging researchers to:
+Subject themselves for rating;
+Maintain their ratings
+Attain ever higher ratings until they reach the top rating
+Indigenous Knowledge Systems (IKS)
+Applicants must respond to one of the following funding instruments:
+IKS and Bio-economy (African Traditional Medicine; Food Security; or Cosmetics)
+IKS Epistemology (Ubuntu and Cosmology; or Taxonomies, Pedagogies, Methodologies)
+IKS and Climate Change
+IKS and Energy
+IKS Practices of the Khoi, Nama, Griqua and San communities
+Novel and creative thinking that will shift the boundaries of IKS knowledge production and address national priorities in South Africa.
+International Research Grants
+These grants are aimed at collaborative research in a country that is a signatory to a binational or bilateral agreement between the NRF and a funding agency in that country (e.g. the NRF-CNRS Agreement with France).
+Knowledge Fields Development (KFD)
+The NRF’s Knowledge Fields Development Directorate identifies and coordinates a number of knowledge fields development activities for implementation each year supported through short-term once-off grants.
+Knowledge Interchange and Collaboration (KIC)
+The KIC funding instrument offers researchers funding for local or international travel; support grants to host an event such as a conference or symposium; and mobility grants to support local or international travel for research or training on specific equipment that is not available in the applicant’s institution or in South Africa, and is not supported by the NRF’s Equipment-related Travel and Training Grants funding instrument.
+Nanotechnology Flagships Project (NFP) for Emerging Researchers
+This funding instrument award 3-year development grants to early career researchers in the field of Nanoscience and Nanotechnology.
+Research Career Advancement Fellowships
+These fellowships are aimed at supporting the training of individuals for research leadership in all areas of Science, Engineering, Technology and Mathematical Sciences (STEM) at public universities.
+Research Infrastructure Support Programmes (RISP)
+RISP supports the acquisition, maintenance and development of state-of-the-art research equipment.
+Sabbatical Grants for Completion of Doctoral Degrees
+This is a special intervention aimed at addressing the decline in the number of full-time university academic staff with a Doctoral degree and the inadequate supervisory capacity that currently characterises the South African academic landscape. It seeks to accelerate the training of Doctoral candidates in order to improve the qualifications of employed academics and enhance their research and supervisory capacity and is aimed at addressing this problem for individuals in the final stages of their Doctoral studies.
+South African National Antarctic Programme (SANAP)
+SANAP supports research in the Southern Ocean, including the Southern Ocean islands (Marion Island, Prince Edward Island and Gough Island) and Antarctica in the fields of Earth Sciences, Engineering Sciences, Life Sciences, Oceanographic Sciences, Physical Sciences, and Social Sciences, Law and Humanities.
+South African Research Chairs Initiative (SARChI)
+SARChI is a strategic intervention of the South African government designed to attract and retain excellence in research and innovation at SA universities. In particular, it is aimed at increasing scientific research capacity by developing human capacity and stimulating the generation of new knowledge. It is also intended to support the realisation of SA’s transformation into a knowledge economy in which the generation of knowledge translates into socioeconomic benefits.
+Technology and Human Resources for Industry Programme (THRIP)
+To qualify, the proposed project must be a high-quality Science, Engineering and/or Technology research project with financial support from an industry partner (preferably an SMME). Further information may be found in the THRIP Multi-criteria Decision Model (MCDM), which is obtainable from THRIP staff at the NRF (see contact details at the end of this booklet).
+Thuthuka Funding Instrument
+Thuthuka aims to develop human capital and to improve the research capacities of designated researchers (black [African, Indian or Coloured], female or persons with disabilities) with the ultimate aim of redressing historical imbalances.
+HSRC-NRF Scholarships in Labour Market Research
+This is a joint Human Sciences Research Council and NRF scholarship to support research into the field of labour and labour markets.
+.I 17
+.T
+Outline of electrical engineering
+.W
+The following outline is provided as an overview of and topical guide to electrical engineering.
+Electrical engineering – field of engineering that generally deals with the study and application of electricity, electronics and electromagnetism. The field first became an identifiable occupation in the late nineteenth century after commercialization of the electric telegraph and electrical power supply. It now covers a range of subtopics including power, electronics, control systems, signal processing and telecommunications.
+Classification
+Electrical engineering can be described as all of the following:
+Academic discipline – branch of knowledge that is taught and researched at the college or university level. Disciplines are defined (in part), and recognized by the academic journals in which research is published, and the learned societies and academic departments or faculties to which their practitioners belong.
+Branch of engineering – discipline, skill, and profession of acquiring and applying scientific, economic, social, and practical knowledge, in order to design and build structures, machines, devices, systems, materials and processes.
+Branches of electrical engineering
+Power engineering
+Control engineering
+Electronic engineering
+Microelectronics
+Signal processing
+Telecommunications engineering
+Instrumentation engineering
+Computer engineering
+Electro-Optical Engineering
+Related disciplines
+Biomedical engineering
+Mechatronics
+History of electrical engineering
+History of electrical engineering
+Timeline of electrical and electronic engineering
+General electrical engineering concepts
+Electromagnetism
+Electromagnetism
+Electricity
+Magnetism
+Electromagnetic spectrum
+Optical spectrum
+Electrostatics
+Electric charge
+Coulomb's law
+Electric field
+Gauss's law
+Electric potential
+Magnetostatics
+Electric current
+Ampère's law
+Magnetic field
+Magnetic moment
+Electrodynamics
+Lorentz force law
+Electromotive force
+Electromagnetic induction
+Faraday-Lenz law
+Displacement current
+Maxwell's equations
+Electromagnetic field
+Electromagnetic radiation
+Electrical circuits
+Electrical resistance
+Capacitance
+Inductance
+Impedance
+Resonant cavity
+Waveguide
+Physical laws
+Physical laws
+Ampère's law
+Coulomb's law
+Faraday's law of induction/Faraday-Lenz law
+Gauss's law
+Kirchhoff's circuit laws
+Current law
+Voltage law
+Maxwell's equations
+Gauss's law
+Faraday's law of induction
+Ampère's law
+Ohm's law
+Control engineering
+Control engineering
+Control Theory
+Adaptive control
+Control theory
+Digital control
+Nonlinear control
+Optimal control
+Intelligent control
+Neural networks
+Fuzzy control
+Model predictive control
+System Properties:
+Exponential stability
+Marginal stability
+BIBO stability
+Lyapunov stability (i.e., asymptotic stability)
+Input-to-state (ISS) stability
+Controllability
+Observability
+Negative feedback
+Positive feedback
+System Modeling and Analysis:
+System identification
+State observer
+First principles modeling
+Least squares
+Kalman filter
+Root locus
+Extended Kalman filter
+Signal-flow graph
+State space representation
+Artificial neural networks
+Controllers:
+Closed-loop controller
+PID controller
+Programmable logic controller
+Embedded controller
+Field oriented controller
+Direct torque controller
+Digital signal controller
+Pulse-width modulation controller
+Control Applications:
+Industrial Control Systems
+Process Control
+Distributed Control System
+Mechatronics
+Motion control
+Supervisory control (SCADA)
+Electronics
+Electronics
+Electrical network/Circuit
+Circuit laws
+Kirchhoff's circuit laws
+Current law
+Voltage law
+Y-delta transform
+Ohm's law
+Electrical element/Discretes
+Passive elements:
+Capacitor
+Inductor
+Resistor
+Hall effect sensor
+Active elements:
+Microcontroller
+Operational amplifier
+Semiconductors:
+Diode
+Zener diode
+Light-emitting diode
+PIN diode
+Schottky diode
+Avalanche diode
+Laser diode
+DIAC
+Thyristor
+Transistor
+Bipolar transistor (BJT)
+Field effect transistor (FET)
+Darlington transistor
+IGBT
+TRIAC
+Mosfet
+Electronic design automation
+Power engineering
+Power engineering
+Generation
+Electrical generator
+Renewable electricity
+Hydropower
+Transmission
+Electricity pylon
+Transformer
+Transmission line
+Distribution
+Processes:
+Alternating current
+Direct current
+Single-phase electric power
+Two-phase electric power
+Three-phase power
+Power electronics / Electro-mechanical
+Inverter
+Static VAR compensator
+Variable-frequency drive
+Ward Leonard control
+Electric vehicles
+Electric vehicles
+Electric motor
+Hybrid electric vehicle
+Plug-in hybrid
+Rechargeable battery
+Vehicle-to-grid
+Smart Grid
+Signal processing
+Signal processing
+Analog signal processing
+Digital signal processing
+Quantization
+Sampling
+Analog-to-digital converter, Digital-to-analog converter
+Continuous signal, Discrete signal
+Downsampling
+Nyquist frequency
+Nyquist-Shannon sampling theorem
+Oversampling
+Sample and hold
+Sampling frequency
+Undersampling
+Upsampling
+Audio signal processing
+Audio noise reduction
+Speech processing
+Equalization (audio)
+Digital image processing
+Geometric transformation
+Color correction
+Computer vision
+Image noise reduction
+Edge detection
+Image editing
+Segmentation
+Data compression
+Lossless data compression
+Lossy data compression
+Filtering
+Analog filter
+Audio filter
+Digital filter
+Finite impulse response
+Infinite impulse response
+Electronic filter
+Analogue filter
+Filter (signal processing)
+Band-pass filter
+Band-stop filter
+Butterworth filter
+Chebyshev filter
+High-pass filter
+Kalman filter
+Low-pass filter
+Notch filter
+Sallen Key filter
+Wiener filter
+Transforms
+Advanced Z-transform
+Bilinear transform
+Continuous Fourier transform
+Discrete cosine transform
+Discrete Fourier transform, Fast Fourier transform (FFT)
+Discrete sine transform
+Fourier transform
+Hilbert transform
+Laplace transform, Two-sided Laplace transform
+Z-transform
+Instrumentation
+Actuator
+Electric motor
+Oscilloscope
+Telecommunication
+Telecommunication
+Telephone
+Pulse-code modulation (PCM)
+Main distribution frame (MDF)
+Carrier system
+Mobile phone
+Wireless network
+Optical fiber
+Modulation
+Carrier wave
+Channel (communications)
+Information theory
+Error correction and detection
+Digital television
+Digital audio broadcasting
+Satellite radio
+Satellite
+Electrical engineering occupations
+Occupations in electrical/electronics engineering
+Electrical Technologist
+Electrical engineering organizations
+International Electrotechnical Commission (IEC)
+Electrical engineering publications
+Hawkins Electrical Guide
+Iterative Receiver Design
+International Journal of Electrical Engineering (IJEE) [1]
+Journal of Electrical Engineering [2]
+Persons influential in electrical engineering
+List of electrical engineers and their contributions
+List of Russian electrical engineers
+.I 18
+.T
+West African cuisine
+.W
+West African cuisine encompasses a diverse range of foods that are split between its 16 countries. In West Africa, many families grow and raise their own food, and within each there is a division of labor. Indigenous foods consist of a number of plant species and animals, and are important to those whose lifestyle depends on farming and hunting.
+The history of West Africa also plays a large role in their cuisine and recipes, as interactions with different cultures (particularly the Arab world and later Europeans) over the centuries have introduced many ingredients that would go on to become key components of the various national cuisines today.
+History
+Centuries later, the Portuguese, French and British further influenced regional cuisines, but only to a limited extent. However, as far as it is known, it was European explorers and slaves ships who brought chili peppers and tomatoes from the New World, and both have become ubiquitous components of West African cuisines, along with peanuts, corn, cassava, and plantains. In turn, these slave ships carried African ingredients to the New World, including black-eyed peas and okra. Around the time of the colonial period, particularly during the Scramble for Africa, the European settlers defined colonial borders without regard to pre-existing borders, territories or cultural differences. This bisected tribes and created colonies with varying culinary styles. As a result, it is difficult to sharply define, for example, Senegalese cuisine. Although the European colonists brought many new ingredients to the African continent, they had relatively little impact on the way people cook in West Africa. Its strong culinary tradition lives on despite the influence of colonization and food migration that occurred long ago.
+Ingredients
+Klouikloui, rings of fried peanut butter as served in Benin
+Though there are obvious differences among the local cuisines in West Africa, there are also many commonalities, mainly in the ingredients used. Many dishes are enriched with a base of tomatoes, onions and chili peppers.[1] Considered an essential and even "sacred" cooking technique in the region, the combination of these three ingredients sauteed in oil is analogous to similar concepts such as the holy trinity of Cajun and Creole cooking in the United States, sofrito used in the Spanish-speaking world, soffritto in Italy, and the mirepoix of France. The most prevalent cooking oil is palm nut oil, traditionally associated with the coastal regions and contributes a distinctive colour, flavour and texture to food, while shea butter is more commonly used in the Sahel. Called karité in French, which comes from the Arabic word ghartī, it is prized for the rich mouthfeel it imparts.
+There are certain ingredients that go with certain countries as well. In Ghana, the most commonly used ingredients are hot pepper, ginger, and maize. Ghanaians use hot pepper because they believe the hot peppers will cool the body and cleanse/purify it. (Salm, 106-108). In Senegal, the main ingredients are among many others gumbo, hot pepper, rice, millet, peanut, ginger, tamarind leaves, and baobab fruit, and cooking oil (Ross, 75). Those are the few that have a slight difference of what they commonly use for their dishes. For an overall view of West Africa, according to Fran Osseo-Asare, the common ingredients for the West African region are the leaves from a baobab tree, cereal grains: sorghum, millet, and fonio, Cola nuts, egusi seeds, guinea fowl, melegueta pepper, oil palm, okra, and rice. Other ingredients used are okra (thickener)basis for soups stew, black-eyed peas, and sesame according to Harris in High on the Hog.
+Seasonings
+Spices play a relatively less prominent role in West African cooking compared to say, North African cuisine. Cooks use spices and herbs like ginger, coriander, and thyme sparingly but knowingly. Chilli peppers however are immensely loved in West Africa, both in fresh or dried and powdered form, particularly in the more hot-and-humid lands of the region. Introduced to Africa probably sometime soon after Christopher Columbus sailed to America by European sailors, it is said that the sweating induced by the spicy heat of chilli helps to air-conditions your skin. More than in other regions of Africa, West Africans utilize Scotch bonnet chile peppers with a liberal hand in many of their sauces and stews. The bite and fire of these extremely hot peppers (Scoville rating 200,000 – 300,000) add a unique flavor as well as heat. The chilli is also supposed to help preserve food, as well as adding flavour to relatively bland tropical staples like root vegetables.
+The seeds of Guinea pepper (Aframomum melegueta; also called grains of paradise or melagueta pepper), a plant indigenous to West Africa, are also widely used. This native spice tastes and looks somewhat like a peppercorn, but has cardamom and coriander seed flavor notes. The grains of paradise was once a prized commodity reaching Europe through North African middlemen, during the Middle Ages.
+Sumbala or soumbala is a flavouring used widely across West Africa, used in a manner not unlike a bouillon cube. It is usually prepared by women over the course of several days, traditionally from néré (Parkia biglobosa) seeds. It can be made from other kinds of seeds, and the use of soybeans for this purpose is increasing due mainly to inadequate supply of néré seeds. The fabrication process involves boiling, cleaning and then packing away to ferment – the fermentation process giving it a pungent smell and at the same time a rich, deep umami or savory flavour is developed. Salt can be added to the finished product to facilitate storage life. This condiment is traditionally sold in balls or patties that can be kept for several months at a time in the case of the best quality. It is a traditional cooking ingredient used across West Africa, although the less traditional bouillon cube, specifically the Maggi brand rivals it in popularity. African Potash (potassium carbonate) is a native salt used for flavoring and to expedite the cooking time for some foods by cooks, it is made from wood-fire ashes in an ancient process that was once used by pioneer settlers in North America.
+Vegetables
+Vegetables are a part of any West African meal. Some commonly eaten vegetables include black-eyed peas, eggplant, pumpkin and other squashes, okra, as well as a staggering variety of both farmed and foraged green leafy vegetables, little known or used outside of the African continent. Baobab leaves, pumpkin leaves, rosella leaves, sweet potato leaves, and cassava leaves (which contain cyanide in their raw state, and are always blanched with boiling water before use to remove the toxins) are just some of the greens that are commonplace in a West African kitchen. Black-eyed peas form the basis for a popular fried snack, the well-loved akara fritter.
+Starchy tubers and root vegetables are used as staple food, to be served with their meat and vegetable dishes, often as a foil to the hotness of the peppers. Cassava, cocoyams, sweet potatoes, plantains, and yams are ubiquitous in the local diet, and they are usually boiled and then pounded with a pestle and mortar into a thick starchy paste called fufu.
+Other starch staples eaten throughout West Africa besides root vegetables and tubers include fonio, rice, millet, sorghum, and maize.
+Meat
+Although West Africans ate far more vegetables and much less meat in the past, today their diet is heavier in meats, salt, and fats. Seafood is especially popular along the coast and many dishes combine both fish and meat. Dried and smoked fish flavor a number of sauces, stews, and other dishes, including condiments, in much the same way that anchovies and bacon flavour food in a number of other cuisines. It is often flaked and fried in oil, and sometimes cooked in sauce made with the base of hot peppers, onions and tomatoes, various spices (such as soumbala) and water to produce an incredible combination of subtle flavors. Chicken is eaten nearly everywhere and chicken eggs are a common food and source of protein. Guinea Fowl eggs also popular. In some inland areas, beef, pork and mutton are preferred, with goat meat being the dominant red meat. Suya, a popular grilled spicy meat kebab flavored with peanuts and other spices, is sold by street vendors as a tasty snack or evening meal and is typically made with beef or chicken.
+Representative dishes
+Some dishes are a prevalent feature in most West African societies, but bearing different names in different locales.
+Fufu
+A plate of fufu accompanied with peanut soup
+As above, fufu is usually made from cassava, yams, and sometimes combined with cocoyam, plantains, or cornmeal. In Ghana, fufu is mostly made from boiled cassava and unripe plantain beaten together, as well as from cocoyam. Currently, these products have been made into powder/flour and can be mixed with hot water to obtain the final product hence eliminating the arduous task of beating it in a mortar with a pestle until a desired consistency is reached. Fufu can also be made from semolina, rice, or even instant potato flakes. Often, the dish is still made by traditional methods: pounding and the base substance in a mortar with a wooden spoon. In contexts where poverty is not an issue, or where modern appliances are readily available, a food processor may also be used.
+In Western and Central Africa, the more common method is to serve a mound of fufu along with a soup (ọbẹ). After washing hands, the diner pinches off a small ball of fufu and makes an indentation with the thumb. This reservoir is then filled with soup, and the ball is eaten. In Nigeria and Ghana, the ball is often not chewed but swallowed whole – in fact, chewing fufu is considered a faux pas. Therefore, fufu not only serves as a food but also as a utensil. One of the low points of Fufu was the smell which lingers on long after the meal, however new and improved species of cassava and improved cassava processing has eliminated the smell of Fufu making it more accepted as a meal.
+A selection of soups that could be served with fufu includes but not limited to: light (tomato) soup, Palm Nut Soup, groundnut soup, peppersoup,[2] and other types of soups with vegetables such as okra, nkontomire (cocoyam leaves). Soups are often made with different kinds of meat and fish, fresh or smoked.
+Groundnut stew
+Maafe, prepared by a Senegalese cook.
+Groundnut stew (Maafe), (var. Mafé, Maffé, Maffe, sauce d'arachide, tigadèguèna or tigadene), is a peanut-based stew common to much of West Africa, and very popular in Senegal, the Gambia, Mali, Guinea and Cote d'Ivoire. Variants of the Maafe appear in the cuisine of nations throughout West Africa and Central Africa. With the huge expansion of groundnut cultivation during the colonial period, Maafe has become a popular dish across West Africa, and as far east as Cameroon.
+Recipes for the stew vary wildly, but groundnut stew at its core is cooked with a sauce based on groundnuts (peanuts),[3] the West African trinity of tomatoes, onion and chillies, and common protein components are mutton, beef or chicken. In the coastal regions of Senegal, maafe is frequently made with fish. Maafe is traditionally served with white rice (in Senegambia), couscous (as West Africa meets the Sahara) or Fufu and sweet potatoes in the more tropical areas.[4]
+Jollof rice
+Jollof rice
+.I 19
+.T
+Mastercard Foundation Scholarship
+.W
+Home
+The Mastercard Foundation Scholars Program at UCT
+The Mastercard Foundation has partnered with the University of Cape Town (UCT) to provide 338 scholarships over 10 years to academically talented yet economically disadvantaged students from Sub-Saharan Africa for study at UCT.
+The Scholars Program is a $700 million initiative to educate young people – particularly from Africa – to lead change and make a positive social impact in their communities. Scholars will receive comprehensive scholarships, academic support, peer mentorship, career guidance, internship opportunities, transition-to-work support and access to a global alumni network.
+Over the 10-year period (2014 – 2024), sixty students will be awarded scholarships to complete an undergraduate qualification and 240 students will be awarded support to obtain qualifications at Honours (as of 2016) and Masters level. In order to be considered for the scholarship, applicants must meet all the eligibility criteria, including the admission criteria for their chosen course of study at UCT.
+The scholarship's tenure is for the full period of the academic program for which the Undergraduate Scholar has enrolled, with the second and subsequent years dependent on satisfactory academic progress and co-curricular involvement.
+Tenure for the Honours level scholarships is one year. For Masters level the scholarships tenure is two years, dependent on academic progress and co-curricular participation of the Scholar.
+.I 20
+.T
+Mandela Rhodes Scholarship
+.W
+Purpose and Vision
+Vision
+The central purpose of The Mandela Rhodes Foundation is to build exceptional leadership capacity in Africa (whilst also seeking to foster better reconciliation and entrepreneurship) through its various programmes and, to this end, aims to be the leading protagonist in Africa for such endeavours.
+We do this in the firm belief that, in the words of our Founder and Patron, Mr Nelson Mandela, “…the work of The Mandela Rhodes Foundation will substantively contribute to a better life for the people of South Africa and further abroad on the African continent…”
+The Mandela Rhodes programmes will develop leadership and vocational capacity across African society, to help the continent achieve success and prosperity and full equal participation in the global world. They will constitute ‘History At Work’, extracting from past legacies to help Africa succeed in the 21st century. The Scholarships Programme will be the main focus for the foreseeable future.
+Mission
+Whilst in pursuit of this vision, we recognise that we have a variety of stakeholders with different needs and expectations. The Mission that The Mandela Rhodes Foundation undertakes for each of these stakeholders is as follows;
+For the donors, who empower and endow the MRF, we endeavour to provide an efficient and professionally managed and governed enterprise which serves as the vehicle and conduit to deliver the jointly-desired social impact indicated by our vision and purpose.
+For the Scholars and other programme participants, we strive to support and build the leadership and intellectual capacity that is needed in order for the MRF to have the kind of social impact that we seek to attain in our vision.
+For the communities, from whom we source our Scholars and for whom we ultimately seek to deliver social benefit, the MRF undertakes never to forget the purpose for which we exist and, in so doing, we pledge to work tirelessly and with accountability so as to maximise the impact that we seek to enable through those whom our programmes empower.
+For our related charities and Foundations (e.g.: The Rhodes Trust, the other ‘Mandela’ Foundations), with whom we share common heritage, we strive to act collaboratively as needs be and in ways that mutually enhance our respective endeavours and build our collective reputation.
+For the staff who work on delivering the outcomes of the MRF, we strive to offer an inspiring and rewarding opportunity for them to be key players in the delivery of that enabling work that is needed to bring the lofty objectives of our vision into being.
+The Trustees of The Mandela Rhodes Foundation
+Cape Town, South Africa, 2005
+.I 21
+.T
+List of Undergraduate Scholarships, Grants, and Fellowships for International Students
+.W
+List of Undergraduate Scholarships, Grants, and Fellowships for International Students
+ Donald A. Wehrung International Student Award
+Univ of British Columbia
+Bachelor’s Degree
+Deadline: 1 Dec 2018 (annual)
+Study in:  Canada
+Course starts 2019
+Last updated: 06 Aug 2018 | Read More
+University of the People Online Tuition Free Degrees
+University of the People
+Bachelors Degree
+Deadline: 4 Oct 2018 (annual)
+Study in:  any Country (online)
+Next term starts 15 Nov 2018
+Last updated: 24 Jul 2018 | Read More
+Humber International Entrance Scholarships
+Humber College
+Undergraduate Degree
+Deadline: 28 Sept 2018/17 May 2019
+Study in: Canada
+Course starts Jan/Sept 2019
+Last updated: 09 Jul 2018 | Read More
+Melbourne International Undergraduate Scholarships
+University of Melbourne
+Bachelors Degree
+Deadline: Dec/31 May (annual)
+Study in:  Australia
+Next course starts 2018
+Last updated: 25 Jun 2018 | Read More
+ Transform Together Scholarships for International and European Union (non-UK) Students
+Sheffield Hallam University
+Bachelors/Masters Degree
+Deadline: 31 May/1 Nov 2018 (annual)
+Study in: Sheffield, UK
+Course starts Sept 2018/Jan 2019
+Last updated: 25 Jun 2018 | Read More
+Access Opportunity Scholarship at University College London
+University College London (UCL)
+Bachelors (BS) Degree
+Deadline: 6 July 2018
+Study in: London
+Course starts September 2018 
+Last updated: 25 Jun 2018 | CURRENTLY CLOSED Read More
+UC International First Year Undergraduate Scholarships
+University of Canterbury
+Bachelors Degree
+Deadline: 15 Aug 2018 (annual)
+Study in: New Zealand
+Course starts 2019
+Last updated: 14 May 2018 | OPENS MID-JUNE 2018 Read More
+Japanese Government Scholarships for International Undergraduate Students
+Japanese Government
+Bachelor’s Degree
+Deadline: varies per country
+Study in: Japan
+Course starts 2019
+Last updated: 30 Apr 2018 | Read More
+University of Bradford Academic Excellence Scholarship for International Students
+University of Bradford
+Bachelors/Masters Degree
+Deadline: 4 June 2018 (annual)
+Study in: UK
+Course starts September 2018
+Last updated: 16 Apr 2018 | CURRENTLY CLOSED Read More
+CDU Vice-Chancellor’s International High Achievers Scholarships
+Charles Darwin University
+Bachelors/Masters Degree
+Deadline: 1 May 2018 (annual)
+Study in: Australia
+Course starts Semester 2, 2018
+Last updated: 16 Apr 2018 | CURRENTLY CLOSED Read More
+ International Ambassador Scholarships at University of West London
+University of West London
+Bachelors/Masters Degree
+Deadline: 15 July 2018 (annual)
+Study in: London, UK
+Course starts Sept 2018
+Last updated: 03 Apr 2018 | Read More
+The Denys Holland Scholarship at University College London
+University College London
+Bachelors Degree
+Deadline: 6 July 2018 (annual)
+Study in:  UK
+Course starts Sept 2018
+.I 22
+.T
+UCT entrance scholarships
+.W
+Scholarships
+Entrance scholarships
+About scholarships awarded at UCT
+Faculties offer two kinds of undergraduate scholarships: Faculty Entrance Scholarships, and Faculty Scholarships.
+The offer of a Vice Chancellors Scholarship replaces all faculty scholarships as it is also an Entrance Scholarship and the same general conditions apply that are outlined below.
+The number of these awards is limited.
+Awards are made on the criteria detailed below.
+There is no application process for these awards.
+Faculties make awards using information provided in applications for admission and academic achievement in the previous year.
+Faculty Entrance Scholarships are awarded to applicants on the basis of NSC achievement in open and redress pools. For Faculty Entrance Scholarships, redress is determined by an applicant’s disadvantage factor.
+Faculty Scholarships are awarded to returning students on the basis of academic achievement in open and redress pools. For Faculty Scholarships, redress is determined by self-declared racial identity. (No disadvantage factor is available for 2017 returning students.)
+An applicant or student who is entitled to staff fees, will have the record of the award noted on his or her transcript but the amount paid into the fee account will be a pro-rated percentage of the standard award.
+General conditions applicable to Faculty Entrance Scholarships
+Faculty Entrance Scholarships are for undergraduate students who are applying to enter the University for the first time, and are for the first year of academic study.
+Except in the BAS and in the Performing and Creative Arts where audition and portfolio rankings are considered, Faculty Entrance Scholarships are guaranteed to applicants who attain the published faculty threshold levels.
+Eligibility for Faculty Entrance Scholarships is restricted to South African citizens and to South African permanent residents.
+A Faculty Entrance Scholarship may be withdrawn entirely if a recipient cancels his or her academic registration before writing mid-year examinations (recipients who cancel registration after writing the mid-year exams will receive half the scholarship value).
+Faculty Entrance Scholarships are valid for the year in which the offer is made. Applicants deferring their studies will need to meet the published threshold level for the year in which they register. Faculties may rollover an Entrance Scholarship offer for applicants who take a 'Gap year'.
+A small portion of the faculty's allotted amount for Faculty Entrance Scholarships is set aside to be awarded at the dean's discretion and may be used for awards to international applicants.
+General conditions applicable to Faculty Scholarships
+Faculty Scholarships are offered to students in their second or third year of undergraduate study. (Some Faculties also make awards for subsequent years of study.) Faculty Scholarships are tenable for one year.
+To be considered for a Faculty Scholarship, a candidate must be registered for a full curriculum workload for the specified programme/qualification, and may not have failed a course within the programme for which he/she is registered.
+While minimum levels of academic achievement, as defined by each Faculty and for academic programmes as specified will apply, Deans may exercise discretion when making scholarship awards taking into account a candidate’s academic record, circumstances and the advice of selection panels and heads of academic departments, as appropriate.
+Faculty Scholarships may be withdrawn if a recipient fails to register at the University for the year in which the scholarship is awarded, changes his or her programme registration to another Faculty, or cancels his or her academic registration before writing mid-year examinations (recipients who cancel registration after writing the mid-year exams will receive half the scholarship value).
+Faculty Points Score (FPS) and subject score thresholds for the award of a Faculty Entrance Scholarship in 2019:
+Faculty of Commerce
+Category	FPS	NBT-AL	NBT-QL	NBT MATHS
+Open
+Minimum of 540
+Proficient
+Proficient
+Proficient
+Redress A (with a disadvantage factor of greater than 1)
+Minimum of 540
+Proficient
+Proficient in one of these two categories
+REDRESS B (with a disadvantage factor of greater than 1)
+480 to 539	Proficient	Proficient in one of these two categories	N/A
+(Faculty of Commerce criteria)
+Faculty of Engineering & The Built Environment
+Qualification	Category	Threshold
+Bachelor of Architectural
+Studies (BAS)
+Redress
+15 best applicants
+All other qualifications
+(excl BAS)
+Redress (disadvantage weighting of 1.1 only)
+FPS 80 and above
+Open
+FPS 90 and above
+(Faculty of Engineering & The Built Environment criteria)
+Faculty of Health Sciences
+MBChB
+Degree	Redress Category	Minimum NBT	Minimum FPS	Minimum MedPS
+MBChB	Redress 1	Results in Proficient range	750	810
+Redress 2	790	850
+Redress 3, 4 & Open	820	890
+Notes:
+MedPS = Medical Point Score, comprising the NSC score + NBT score + Personal Report score
+FPS (Faculty Points Score) = NSC + NBT scores.
+Redress scholarships will be given only to applicants with a disadvantage factor of greater than 1.
+Rehabilitation Sciences:
+Degree	Redress Category	Minimum NBT	Minimum FPS 2016
+BSc Physiotherapy	Redress 1	Results in Intermediate range	710
+Redress 2	730
+Redress 3 & 4	770
+Open	Results in Proficient range	780
+BSc Occupational Therapy	Redress 1	Results in Intermediate range	670
+Redress 2	690
+Redress 3 & 4	750
+Open	Results in Proficient range	780
+BSc Audiology & BSc Speech-Language Pathology	Redress 1	Results in Intermediate range	650
+Redress 2	660
+Redress 3 & 4	730
+Open	Results in Proficient range.	750
+Note: Applicants are only eligible for a scholarship in the Redress category if they have a disadvantage factor of greater than 1.
+(Faculty Health Sciences criteria)
+Faculty of Humanities
+Faculty entrance scholarships are awarded differentially across three qualification groups:
+Bachelors of Arts (BA), Social Science (BSocSc) and Social Work (BSW) (70%)
+Extended programmes of study leading to the BA and BSocSc (10%)
+Qualifications in the performing and creative arts (20%)
+Bachelor of Arts, Bachelor of Social Science and Social Work (BA, BSocSc (this includes the BSocSc (Philosophy, Politics and Economics), BSW)).
+Category	Eligibility	Criteria
+Open	All SA applicants	FPS: 510 (85% average) or above
+NBT: Proficient in Academic Literacy (AL) test
+Redress	Applicants with a disadvantage factor of between 1.01 and 1.1 (i.e. up to 10% of the FPS)	FPS: 470 (78% average) or above
+NBT: Upper Intermediate in Academic Literacy (AL) test
+Extended Programmes of study leading to the Bachelor of Arts and Bachelor of Social Science
+Faculty entrance scholarships in this category acknowledge and reward excellent performance in the National Senior Certificate (NSC) examinations.  There are ten scholarships available and they will be allocated competitively on the basis of academic merit to first-time entering applicants.  Awards are made by the Dean on the recommendation of the programme convenor and the Faculty Admissions Committee (RFAC).
+Qualifications in the performing and creative arts 
+Faculty entrance scholarships in this category acknowledge and reward National Senior Certificate (NSC) examination and creative or performance excellence.  The scholarships are divided among four areas on a pro rata basis and at least 50% of the awards must be to applicants from the Redress category.  Awards are made to applicants by the Head/ Director of the Department/ School on the advice on a selection panel.  Awards are made to first-time entering applicants or to transferring students who have been assessed by the school/ department/ college as having excellent potential.  Offer of a scholarship will fall away if a student subsequently registers for a qualification outside of one of the performing and creative arts degree programmes.
+Bachelor of Art in Fine Art (BA(FA))
+Applicants are considered for a Faculty entrance scholarship on the basis of their portfolio rating.  Portfolios are rated A, B+ or B and applicants are ranked and awards made to the top applicants in descending order.  Where two applicants perform similarly in a portfolio submission, their NSC and NBT scores are taken into account.
+Bachelor of Art in Theatre and Performance (BA(TP)); Diploma in Theatre and Performance: Diploma in Dance Education
+Applicants to both the degree and diploma programmes are considered for a Faculty entrance scholarship on the basis of their audition performance, NSC results, and NBT score (all three of which are equally weighted). 
+In allocating scholarships, consideration is also given to equity (with specific reference to the Redress category) and to achieving an appropriate balance between the various streams and specialisations in the degree programme.
+Bachelor of Music (BMus); Diploma in Music Performance; Advanced Diploma in Opera: Advanced Diploma in Music
+Applicants are considered for a Faculty entrance scholarship on the basis of their musical ability as evidenced in the audition performance.  Auditions are rated A, B+ or B and applicants are ranked and awards made to the top applicants in descending order.  Where two applicants perform similarly in an audition performance, their NSC and NBT scores are taken into account, along with any recommendation from the Music teacher.
+In allocating scholarships, consideration is also given to equity (with specific reference to the Redress category) and to achieving an appropriate balance between the various streams and specialisations in the degree programme.
+Dean’s Discretionary allocation
+Five percent of the Faculty’s entrance scholarship allocation is earmarked for award at the discretion of the Dean.  Awards in this category allow for recognition of excellence in non-NSC or international school-leaving examinations.
+(Faculty of Humanities criteria)
+Faculty of Law
+LLB (Undergraduate applicants)
+Category	NSC	NBT (National Benchmark Test)
+All redress categories	FPS of 480	average of 75% for Academic Literacy and Quantitative Literacy
+Open	FPS of 510	average of 85% for Academic Literacy and Quantitative Literacy
+LLB (Graduate applicants)
+Category	GPA
+All redress categories	70% for previous undergraduate degree
+Open	77% for previous undergraduate degree
+(Faculty of Law criteria)
+Faculty of Science
+Category	Criteria
+Open 	A minimum Faculty Points Score (FPS) of 725 and ≥80% for Mathematics in the final NSC examinations.
+Level 1 scholarship (R40,000; FPS ≥ 750)
+Level 2 scholarship (R20,000; FPS 725-749)
+Redress 	Applicants with a disadvantage factor of 1.1 and a minimum FPS of 690 and ≥80% for Mathematics in the final NSC examinations.
+Level 3 scholarship (R10,000; FPS 690-724)
+.I 23
+.T
+Confederation of African Football
+.W
+The Confederation of African Football or CAF (French: Confédération Africaine de Football) is the administrative and controlling body for African association football.
+CAF represents the national football associations of Africa, runs continental, national, and club competitions, and controls the prize money, regulations and media rights to those competitions.
+CAF is the biggest of the six continental confederations of FIFA. Since the expansion of the number of teams at the World Cup finals to 32 in 1998, CAF has been allocated five places, though this was expanded to six for the 2010 tournament in South Africa, to include the hosts.
+CAF was established on 8 February 1957 in Khartoum, Sudan,[1] by Egyptian, Ethiopian, South African and Sudanese[2] FAs, following former discussions between the Egyptian, Somali, South African and Sudanese FAs earlier on 7 June 1956 at the Avenida Hotel in Lisbon, Portugal. Its first headquarters was situated in Khartoum for some months until a fire outbreak in the offices of the Sudanese Football Association when the organization moved near Cairo, Egypt. Youssef Mohammad was the first general secretary and Abdel Aziz Abdallah Salem the president. Since 2002, the administrative center has been located in 6th of October City, Cairo, Egypt. CAF currently has 56 member associations: 55 are full members, including former associate Zanzibar (admitted in March 2017),[3] while Réunion remains an associate member (see the CAF Members and Zones section below).
+The current CAF President is Ahmad Ahmad from Madagascar, who was elected on 16 March 2017.[4] The 1st Vice-President is Kwesi Nyantakyi from Ghana, the 2nd vice president is called Constant Omari Selemani from RD Congo and the 3rd Vice president is Fouzi Lekjaa from Morocco.[5] Current CAF General Secretary is Egyptian Amr Fahmy since 16 November 2017
+.I 24
+.T
+South Africa - Wikipedia - Partial
+.W
+South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres (1,739 mi) of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans;[9][10][11] to the north by the neighbouring countries of Namibia, Botswana, and Zimbabwe; and to the east and northeast by Mozambique and Swaziland (Eswatini); and it surrounds the kingdom of Lesotho.[12] South Africa is the largest country in Southern Africa[13] and the 25th-largest country in the world by land area and, with close to 56 million people, is the world's 24th-most populous nation. It is the southernmost country on the mainland of the Old World or the Eastern Hemisphere. About 80 percent of South Africans are of Sub-Saharan African ancestry,[5] divided among a variety of ethnic groups speaking different African languages, nine of which have official status.[11] The remaining population consists of Africa's largest communities of European (white), Asian (Indian), and multiracial (Coloured) ancestry.
+South Africa is a multiethnic society encompassing a wide variety of cultures, languages, and religions. Its pluralistic makeup is reflected in the constitution's recognition of 11 official languages, which is the fourth highest number in the world.[11] Two of these languages are of European origin: Afrikaans developed from Dutch and serves as the first language of most coloured and white South Africans; English reflects the legacy of British colonialism, and is commonly used in public and commercial life, though it is fourth-ranked as a spoken first language.[11] The country is one of the few in Africa never to have had a coup d'état, and regular elections have been held for almost a century. However, the vast majority of black South Africans were not enfranchised until 1994. During the 20th century, the black majority sought to recover its rights from the dominant white minority, with this struggle playing a large role in the country's recent history and politics. The National Party imposed apartheid in 1948, institutionalising previous racial segregation. After a long and sometimes violent struggle by the African National Congress and other anti-apartheid activists both inside and outside the country, the repeal of discriminatory laws began in 1990.
+Since 1994, all ethnic and linguistic groups have held political representation in the country's democracy, which comprises a parliamentary republic and nine provinces. South Africa is often referred to as the "rainbow nation" to describe the country's multicultural diversity, especially in the wake of apartheid.[14] The World Bank classifies South Africa as an upper-middle-income economy, and a newly industrialised country.[15][16] Its economy is the second-largest in Africa, and the 34th-largest in the world.[6] In terms of purchasing power parity, South Africa has the seventh-highest per capita income in Africa. However, poverty and inequality remain widespread, with about a quarter of the population unemployed and living on less than US$1.25 a day.[17][18] Nevertheless, South Africa has been identified as a middle power in international affairs, and maintains significant regional influence
+Name
+See also: Official names of South Africa
+The name "South Africa" is derived from the country's geographic location at the southern tip of Africa. Upon formation the country was named the Union of South Africa in English, reflecting its origin from the unification of four formerly separate British colonies. Since 1961 the long form name in English has been the "Republic of South Africa". In Dutch the country was named Republiek van Zuid-Afrika, replaced in 1983 by the Afrikaans Republiek van Suid-Afrika. Since 1994 the Republic has had an official name in each of its 11 official languages.
+Mzansi, derived from the Xhosa noun umzantsi meaning "south", is a colloquial name for South Africa,[21][22] while some Pan-Africanist political parties prefer the term "Azania".[23]
+History
+Main article: History of South Africa
+Prehistoric archaeology
+South Africa contains some of the oldest archaeological and human-fossil sites in the world.[24][25][26] Archaeologists have recovered extensive fossil remains from a series of caves in Gauteng Province. The area, a UNESCO World Heritage site, has been branded "the Cradle of Humankind". The sites include Sterkfontein, one of the richest sites for hominin fossils in the world. Other sites include Swartkrans, Gondolin Cave Kromdraai, Coopers Cave and Malapa. Raymond Dart identified the first hominin fossil discovered in Africa, the Taung Child (found near Taung) in 1924. Further hominin remains have come from the sites of Makapansgat in Limpopo, Cornelia and Florisbad in the Free State, Border Cave in KwaZulu-Natal, Klasies River Mouth in Eastern Cape and Pinnacle Point, Elandsfontein and Die Kelders Cave in Western Cape.
+These finds suggest that various hominid species existed in South Africa from about three million years ago, starting with Australopithecus africanus.[27] There followed species including Australopithecus sediba, Homo ergaster, Homo erectus, Homo rhodesiensis, Homo helmei, Homo naledi and modern humans (Homo sapiens). Modern humans have inhabited Southern Africa for at least 170,000 years.
+Migrations that formed the modern Rainbow nation
+Various researchers have located pebble tools within the Vaal River valley.[28][29]
+Bantu expansion
+Mapungubwe Hill, the site of the former capital of the Kingdom of Mapungubwe
+Settlements of Bantu-speaking peoples, who were iron-using agriculturists and herdsmen, were already present south of the Limpopo River (now the northern border with Botswana and Zimbabwe) by the 4th or 5th century CE. (See Bantu expansion.) They displaced, conquered and absorbed the original Khoisan speakers, the Khoikhoi and San peoples. The Bantu slowly moved south. The earliest ironworks in modern-day KwaZulu-Natal Province are believed to date from around 1050. The southernmost group was the Xhosa people, whose language incorporates certain linguistic traits from the earlier Khoisan people. The Xhosa reached the Great Fish River, in today's Eastern Cape Province. As they migrated, these larger Iron Age populations displaced or assimilated earlier peoples. In Mpumalanga, several stone circles have been found along with the stone arrangement that has been named Adam's Calendar
+.I 25
+.T
+Ivory Coast
+.W
+Ivory Coast, also known as Côte d'Ivoire and officially as the Republic of Côte d'Ivoire,[6] is a sovereign state located in West Africa. Ivory Coast's political capital is Yamoussoukro, and its economic capital and largest city is the port city of Abidjan. Its bordering countries are Guinea and Liberia in the west, Burkina Faso and Mali in the north, and Ghana in the east. The Gulf of Guinea (Atlantic Ocean) is located south of Ivory Coast.
+Prior to its colonization by Europeans, Ivory Coast was home to several states, including Gyaaman, the Kong Empire, and Baoulé. Two Anyi kingdoms, Indénié and Sanwi, attempted to retain their separate identity through the French colonial period and after independence.[7] Ivory Coast became a protectorate of France in 1843–1844 and later a French colony in 1893 amid the European scramble for Africa. Ivory Coast achieved independence in 1960, led by Félix Houphouët-Boigny, who ruled the country until 1993. The country maintained close political and economic association with its West African neighbors while at the same time maintaining close ties to the West, especially France. Since the end of Houphouët-Boigny's rule in 1993, Ivory Coast has experienced a coup d'état, in 1999, and two religion-grounded civil wars. The first took place between 2002 and 2007[8] and the second during 2010–2011. In 2000, the country adopted a new constitution.[9]
+Ivory Coast is a republic with a strong executive power invested in its President. Through the production of coffee and cocoa, the country was an economic powerhouse in West Africa during the 1960s and 1970s. Ivory Coast went through an economic crisis in the 1980s, contributing to a period of political and social turmoil. In the 21st century the Ivorian economy is largely market-based and still relies heavily on agriculture, with smallholder cash-crop production being dominant.[1]
+The official language is French, with local indigenous languages also widely used, including Baoulé, Dioula, Dan, Anyin, and Cebaara Senufo. In total there are around 78 languages spoken in Ivory Coast. Popular religions include Christianity (primarily Roman Catholicism), Islam, and various indigenous religions.
+Names
+Originally, Portuguese and French merchant-explorers in the 15th and 16th centuries divided the west coast of Africa, very roughly, into four "coasts" reflecting local economies. The coast that the French named the Côte d'Ivoire and the Portuguese named the Costa do Marfim—both, literally, mean "Coast of Ivory"—lay between what was known as the Guiné de Cabo Verde, so-called "Upper Guinea" at Cap-Vert, and Lower Guinea.[10][11] There was also a Pepper Coast, also known as the "Grain Coast", a "Gold Coast", and a "Slave Coast". Like those, the name "Ivory Coast" reflected the major trade that occurred on that particular stretch of the coast: the export of ivory.[12][10][13][14][15]
+Other names included the Côte de Dents,[n 1] literally "Coast of Teeth", again reflecting the trade in ivory;[17][18][12][11][15][19] the Côte de Quaqua, after the people whom the Dutch named the Quaqua (alternatively Kwa Kwa);[18][10][16] the Coast of the Five and Six Stripes, after a type of cotton fabric also traded there;[18] and the Côte du Vent[n 2], the Windward Coast, after perennial local off-shore weather conditions.[12][10] One can find the name Cote de(s) Dents regularly used in older works.[18] It was used in Duckett's Dictionnaire (Duckett 1853) and by Nicolas Villault de Bellefond, for example, although Antoine François Prévost used Côte d'Ivoire.[19] In the 19th century, usage switched to Côte d'Ivoire.[18]
+The coastline of the modern state is not quite coterminous with what the 15th- and 16th-century merchants knew as the "Teeth" or "Ivory" coast, which was considered to stretch from Cape Palmas to Cape Three Points and which is thus now divided between the modern states of Ghana and Ivory Coast (with a minute portion of Liberia).[17][13][19][16] It retained the name through French rule and independence in 1960.[20] The name had long since been translated literally into other languages,[n 3] which the post-independence government considered increasingly troublesome whenever its international dealings extended beyond the Francophone sphere. Therefore, in April 1986, the government declared that Côte d'Ivoire (or, more fully, République de Côte d'Ivoire[22]) would be its formal name for the purposes of diplomatic protocol, and since then officially refuses to recognize or accept any translation from French to another language in its international dealings.[21][23][24]
+Despite the Ivorian government's request, the English translation "Ivory Coast" (often "the Ivory Coast") is still frequently used in English by various media outlets and publications.[n 4][n 5]
+History
+Main article: History of Ivory Coast
+Land migration
+Prehistoric polished stone celt from Boundiali in northern Ivory Coast, photo taken at the IFAN Museum of African Arts in Dakar, Senegal
+The first human presence in Ivory Coast has been difficult to determine because human remains have not been well preserved in the country's humid climate. However, newly found weapon and tool fragments (specifically, polished axes cut through shale and remnants of cooking and fishing) have been interpreted as a possible indication of a large human presence during the Upper Paleolithic period (15,000 to 10,000 BC),[33] or at the minimum, the Neolithic period.[34]
+The earliest known inhabitants of Ivory Coast have left traces scattered throughout the territory. Historians believe that they were all either displaced or absorbed by the ancestors of the present indigenous inhabitants, who migrated south into the area before the 16th century. Such groups included the Ehotilé (Aboisso), Kotrowou (Fresco), Zéhiri (Grand Lahou), Ega and Diès (Divo)
+Pre-Islamic and Islamic periods
+The first recorded history appears in the chronicles of North African (Berber) traders, who, from early Roman times, conducted a caravan trade across the Sahara in salt, slaves, gold, and other goods. The southern terminals of the trans-Saharan trade routes were located on the edge of the desert, and from there supplemental trade extended as far south as the edge of the rain forest. The more important terminals—Djenné, Gao, and Timbuctu—grew into major commercial centres around which the great Sudanic empires developed.
+By controlling the trade routes with their powerful military forces, these empires were able to dominate neighbouring states. The Sudanic empires also became centres of Islamic education. Islam had been introduced in the western Sudan (today's Mali) by Muslim Berber traders from North Africa; it spread rapidly after the conversion of many important rulers. From the 11th century, by which time the rulers of the Sudanic empires had embraced Islam, it spread south into the northern areas of contemporary Ivory Coast.
+The Ghana empire, the earliest of the Sudanic empires, flourished in present-day eastern Mauritania from the fourth to the 13th centuries. At the peak of its power in the 11th century, its realms extended from the Atlantic Ocean to Timbuctu. After the decline of Ghana, the Mali Empire grew into a powerful Muslim state, which reached its apogee in the early part of the 14th century. The territory of the Mali Empire in Ivory Coast was limited to the north-west corner around Odienné.
+Pre-European era
+Pre-European kingdoms
+Five important states flourished in Ivory Coast during the pre-European era. The Muslim Kong Empire was established by the Joola in the early 18th century in the north-central region inhabited by the Sénoufo, who had fled Islamization under the Mali Empire. Although Kong became a prosperous center of agriculture, trade, and crafts, ethnic diversity and religious discord gradually weakened the kingdom. The city of Kong was destroyed in 1895 by Samori Ture.
+The Abron kingdom of Gyaaman was established in the 17th century by an Akan group, the Abron, who had fled the developing Ashanti confederation of Asanteman in what is present-day Ghana. From their settlement south of Bondoukou, the Abron gradually extended their hegemony over the Dyula people in Bondoukou, who were recent arrivals from the market city of Begho. Bondoukou developed into a major center of commerce and Islam. The kingdom's Quranic scholars attracted students from all parts of West Africa. In the mid-17th century in east-central Ivory Coast, other Akan groups fleeing the Asante established a Baoulé kingdom at Sakasso and two Agni kingdoms, Indénié and Sanwi.
+The Baoulé, like the Ashanti, developed a highly centralized political and administrative structure under three successive rulers. It finally split into smaller chiefdoms. Despite the breakup of their kingdom, the Baoulé strongly resisted French subjugation. The descendants of the rulers of the Agni kingdoms tried to retain their separate identity long after Ivory Coast's independence; as late as 1969, the Sanwi attempted to break away from Ivory Coast and form an independent kingdom.[36] The current king of Sanwi is Nana Amon Ndoufou V (since 2002).
+Establishment of French rule
+Compared to neighboring Ghana, Ivory Coast, though practicing slavery and slave raiding, suffered little from the slave trade as such. European slaving and merchant ships preferred other areas along the coast. The earliest recorded European voyage to West Africa was made by the Portuguese in 1482. The first West African French settlement, Saint Louis, was founded in the mid-17th century in Senegal, while at about the same time, the Dutch ceded to the French a settlement at Goree Island, off Dakar. A French mission was established in 1637 at Assinie near the border with the Gold Coast (now Ghana). The Europeans suppressed the local practice of slavery at this time, and forbade the trade to their merchants.
+Assinie's survival was precarious, however; the French were not firmly established in Ivory Coast until the mid-19th century. In 1843–4, French admiral Louis Edouard Bouët-Willaumez signed treaties with the kings of the Grand Bassam and Assinie regions, making their territories a French protectorate. French explorers, missionaries, trading companies, and soldiers gradually extended the area under French control inland from the lagoon region. Pacification was not accomplished until 1915.
+Cuisine
+Yassa is a popular dish throughout West Africa prepared with chicken or fish. Chicken yassa is pictured.
+Main article: Ivorian cuisine
+The traditional cuisine of Ivory Coast is very similar to that of neighboring countries in West Africa in its reliance on grains and tubers. Cassava and plantains are significant parts of Ivorian cuisine. A type of corn paste called aitiu is used to prepare corn balls, and peanuts are widely used in many dishes. Attiéké is a popular side dish in Ivory Coast made with grated cassava, a vegetable-based couscous. A common street food is alloco, ripe banana fried in palm oil, spiced with steamed onions and chili and eaten alone or with grilled fish. Chicken is commonly consumed and has a unique flavor due to its lean, low-fat mass in this region. Seafood includes tuna, sardines, shrimp, and bonito, which is similar to tuna. Mafé is a common dish consisting of meat in a peanut sauce.[100]
+Slow-simmered stews with various ingredients are another common food staple in Ivory Coast.[100] Kedjenou is a dish consisting of chicken and vegetables slow-cooked in a sealed pot with little or no added liquid, which concentrates the flavors of the chicken and vegetables and tenderizes the chicken.[100] It is usually cooked in a pottery jar called a canary, over a slow fire, or cooked in an oven.[100] Bangui is a local palm wine.
+Ivorians have a particular kind of small, open-air restaurant called a maquis, which is unique to the region. A maquis normally features braised chicken and fish covered in onions and tomatoes, served with attiéké or kedjenou.
+.I 26
+.T
+West Africa
+.W
+West Africa, also called Western Africa and the West of Africa, is the westernmost region of Africa. West Africa has been defined as including 17 countries: Benin, Burkina Faso, the island nation of Cape Verde, Gambia, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Liberia, Mali, Mauritania, Niger, Nigeria, the islands of Saint Helena, Ascension and Tristan da Cunha, Senegal, Sierra Leone and Togo.[7] The population of West Africa is estimated at about 362 million[2] people as of 2016.
+Genetic background
+Map of early diversification of modern humans, with halpogroup L2 entering West Africa.
+Studies of human mitochondrial DNA suggest that all humans share common ancestors from Africa, originated in the southwestern regions near the coastal border of Namibia and Angola at the approximate coordinates 12.5° E, 17.5°S with a divergence in the migration path around 37.5°E, 22.5°N near the Red Sea.[8]
+A particular haplogroup of DNA, haplogroup L2, evolved between 87,000 and 107,000 years ago[9] or approx. 90,000 YBP.[10] Its age and widespread distribution and diversity across the continent makes its exact origin point within Africa difficult to trace with any confidence,[11] however an origin for several L2 groups in West or Central Africa seems likely,[11] with the highest diversity in West Africa. Most of its subclades are largely confined to West and western-Central Africa.[12]
+Because of the large numbers of West Africans enslaved in the Atlantic slave trade, most African Americans are likely to have mixed ancestry from different regions of western Africa.[13]
+History
+Main article: History of West Africa
+The history of West Africa can be divided into five major periods: first, its prehistory, in which the first human settlers arrived, developed agriculture, and made contact with peoples to the north; the second, the Iron Age empires that consolidated both intra-Africa, and extra-Africa trade, and developed centralized states; third, major polities flourished, which would undergo an extensive history of contact with non-Africans; fourth, the colonial period, in which Great Britain and France controlled nearly the entire region; and fifth, the post-independence era, in which the current nations were formed.
+Prehistory
+Early human settlers from northern Holocene societies arrived in West Africa around 12,000 B.C.[dubious – discuss] At Gobero, the Kiffian, who were hunters of tall stature, lived during the green Sahara between 10,000 and 8,000 years ago. The Tenerian, who were a more lightly built people that hunted, fished and herded cattle, lived during the latter part of the green Sahara approximately 7,000 to 4,500 years ago.[14]
+Sedentary farming began in, or around the fifth millennium B.C, as well as the domestication of cattle. By 1500 B.C, ironworking technology allowed an expansion of agricultural productivity, and the first city-states later formed. Northern tribes developed walled settlements and non-walled settlements that numbered at 400. In the forest region, Iron Age cultures began to flourish, and an inter-region trade began to appear. The desertification of the Sahara and the climatic change of the coast cause trade with upper Mediterranean peoples to be seen.
+The domestication of the camel allowed the development of a trans-Saharan trade with cultures across the Sahara, including Carthage and the Berbers; major exports included gold, cotton cloth, metal ornaments, and leather goods, which were then exchanged for salt, horses, textiles, and other such materials. Local leather, cloth, and gold also contributed to the abundance of prosperity for many of the following empires.
+Scores of foreign visitors to West African nations (e.g., traders, historians, emigrants, colonists, missionaries) have benefited from its citizens' generosity, and even left with a piece of its cultural heritage, via its foods. West African cuisines have had a significant influence on those of Western civilization for centuries; several dishes of West African origin are currently enjoyed in the Caribbean (e.g., the West Indies and Haiti); Australia; the USA (particularly Louisiana, Virginia, North and South Carolina); Italy; and other countries. Although some of these recipes have been altered to suit the sensibilities of their adopters, they retain a distinct West African essence.[34]
+West Africans cuisines include fish (especially among the coastal areas), meat, vegetables, and fruits—most of which are grown by the nations' local farmers. In spite of the obvious differences among the various local cuisines in this multinational region, the foods display more similarities than differences. The small difference may be in the ingredients used. Most foods are cooked via boiling or frying. Commonly featured, starchy vegetables include yams, plantains, cassava, and sweet potatoes.[35] Rice is also a staple food, as is the Serer people's sorghum couscous (called "Chereh" in Serer) particularly in Senegal and the Gambia.[36] Jollof rice—originally from the Kingdom of Jolof (now part of modern-day Senegal) but having spread to the Wolofs of Gambia—is also enjoyed in many Western nations, as well;[37] Mafé (proper: "Tigh-dege-na" or Domodah) from Mali (via the Bambara and Mandinka)[38]—a peanut-butter stew served with rice;[39][40] Akara (fried bean balls seasoned with spices served with sauce and bread) from Nigeria is a favourite breakfast for Gambians and Senegalese, as well as a favourite side snack or side dish in Brazil and the Caribbean just as it is in West Africa. It is said that its exact origin may be from Yorubaland in Nigeria.[41][42] Fufu (from the Twi language, a dough served with a spicy stew or sauce for example okra stew etc.) from Ghana is enjoyed throughout the region and beyond even in Central Africa with their own versions of it.[43] Dishes such as taguella, eghajira, etc. are popular among the Tuareg people.
+.I 27
+.T
+The Largest Football (Soccer) Stadiums In The World
+.W
+WORLD FACTS
+The Largest Football (Soccer) Stadiums In The World
+The North Korean Rungrado May Day Stadium has a seating capacity of 114,000, making it the largest one in the world
+Football or soccer is the held to be the most popular sport in the world. It has simple rules and few essential types of equipment that make it possible to be played almost anywhere like in the beaches, streets, parks, gymnasium, and school grounds. According to the world’s football governing body FIFA, there were about 250 million soccer players and more that 1.3 billion people who had an interest in the sport in 2000. In 2010 FIFA world cup, there were more than 3.2 billion audiences watching football on television. In world cup 2014 FIFA generated more than $1.7billion in broadcasting rights. Therefore, football or soccer is by far the most popular sport in the world that transcends race, culture, gender or age. It has been referred as the game that unifies humanity. In order to qualify on our list, a stadium has to be primarily used for football (soccer) games. The list does not include NFL stadiums.
+The 3 Largest Stadiums by Capacity
+Rungrado May Stadium
+Rungrado May Stadium is the largest football stadium in the world found in Pyongyang, North Korea. It has the capacity of 114,000 spectators. Its construction was completed in 1989, and it is used mainly for soccer matches, some athletic events, and mass games. It has a roof that features 16 curves that are arranged like a ring and has a floor space of around 2.2 million ft squared and a roof peak of over 197 ft from the ground.
+Camp Nou
+Camp Nou, of Barcelona, Spain, is the second largest football stadium in the world. Since 1957, this stadium has been the home of the Barcelona FC. It has a seating capacity of 99,354 and the largest football stadium in Europe. It has hosted many popular sports such as the 1992 Olympics, and finals of the UEFA Champion Leagues. The stadium took a span of three years to be constructed at a cost of around 288 million pesetas.
+FNB Soccer City Stadium
+Found in Johannesburg, South Africa , FNB Soccer City is the largest football stadium in Africa, and the third largest stadium in the world with a seating capacity for 94,736 fans. Besides, it is located next to the headquarters of the South African Football Association. The stadium staged and hosted the 2010 FIFA World Cup Final between Netherlands and Spain. The stadium featured the last public appearance of Nelson Mandela during the final closing ceremony of the world cup. In 1990, it became famous for the first speech of Nelson Mandela in Johannesburg immediately after his release from prison.
+Importance of Football
+Football plays a significant role in promoting international relations between countries because of its popularity over the world. For instance, the International Olympic Committee has more than 200 member countries, more than the total number of UN member states that has 192 member countries. Further, football plays a vital role in impacting international relations as it brings together people all over the world through media and technology, where people sit and watch major football matches such as FIFA World Cup at the same time.
+The Largest Football (Soccer) Stadiums In The World              
+Rank	﻿Stadium	Capacity	Location
+1	Rungrado May Day Stadium	114,000	Pyongyang, North Korea
+2	Camp Nou	99,354	Barcelona, Spain
+3	FNB Stadium	94,736	Johannesburg, South Africa
+4	Rose Bowl Stadium	92,542	Pasadena, United States
+5	Wembley Stadium	90,310	London, England
+6	Bukit Jalil National Stadium	89,411	Kuala Lumpur, Malaysia
+7	Gelora Bung Karno Main Stadium	88,083	Jakarta, Indonesia
+8	Estadio Azteca	87,000	Mexico City, Mexico
+9	Borg El Arab Stadium	86,000	Alexandria, Egypt
+10	Salt Lake Stadium	85,000	Kolkata, India
+11	ANZ Stadium	84,000	Sydney, Australia
+12	Croke Park	82,300	Dublin, Ireland
+13	Signal Iduna Park	81,360	Dortmund, Germany
+14	Stade de France	81,338	Saint-Denis, France
+15	Santiago Bernabéu Stadium	81,044	Madrid, Spain
+16	Luzhniki Stadium	81,006	Moscow, Russia
+17	Shah Alam Stadium	80,372	Shah Alam, Malaysia
+18	Estadio Monumental "U"	80,093	Lima, Peru
+19	Stadio Giuseppe Meazza	80,018	Milan, Italy
+20	Guangdong Olympic Stadium	80,012	Guangzhou, China
+21	AT&T Stadium	80,000	Arlington, United States
+22	Stade des Martyrs	80,000	Kinshasha, Democratic Republic of the Congo
+23	Beijing National Stadium	80,000	Beijing, China
+24	Maracanã Stadium	78,838	Rio de Janeiro, Brazil
+25	Azadi Stadium	78,116	Tehran, Iran
+26	Atatürk Olympic Stadium	76,092	Istanbul, Turkey
+27	Old Trafford	75,731	Manchester, England
+28	Allianz Arena	75,024	Munich, Germany
+29	Jawaharlal Nehru Stadium	75,000	Kochi, India
+30	Naghsh-e-Jahan Stadium	75,000	Isfahan, Iran
+.I 28
+.T
+The 10 most critical problems in the world, according to millennials
+.W
+World Economic Forum surveys people every year about the biggest problems facing the world.
+Climate change is the millennial generation's top concern for the third year in a row.
+Millennials are also concerned about large scale conflict, wars, and inequality.
+For the third year in a row, millennials who participated in the World Economic Forum's Global Shapers Survey 2017 believe climate change is the most serious issue affecting the world today.
+Nearly half (48.8%) of the survey participants chose climate change as their top concern, and 78.1% said they would be willing to change their lifestyle to protect the environment.
+Survey respondents were also in near unequivocal agreement over the cause of climate change. Over 91% of respondents answered "agree" and "strongly agree" with the statement "science has proven that humans are responsible for climate change."
+Despite the dire state of the world today — and the stereotype that millennials' are selfish and apathetic — the generation aged 18 to 35 cares deeply about global issues, and they're determined to tackle them.
+Below are the top-10 most concerning world issues, according to millennials.
+10. Lack of economic opportunity and unemployment (12.1%)
+Chinese workers wait for job opportunities inside a local employment center on September 18, 2015 in Yiwu, Zhejiang Province, China. Kevin Frayer/Getty
+9. Safety / security / well being (14.1%) 
+A man in Helsinki waves the Finnish flag. Finland is rated one of the happiest countries on earth, according to the World Happiness Report. Reuters/Vesa Moilanen
+8. Lack of education (15.9%)
+Students attend school in a temporary classroom in Nepal one year after a 7.8 magnitude earthquake killed more than 9,000 people. Paula Bronstein/ Getty
+7. Food and water security (18.2%)
+A protester in Flint, Michigan, holds up a sign criticizing the city's water contamination crisis that became a federal emergency and required aid from the National Guard. Bill Pugliano/Getty
+6. Government accountability and transparency / corruption (22.7%)
+Demonstrators wear masks depicting Brazil's former president Luiz Inacio Lula da Silva (L) and Brazil's President Dilma Rousseff during a protest calling for the impeachment of Rousseff near the National Congress in Brasilia, Brazil, December 13, 2015. REUTERS/Ueslei Marcelino
+5. Religious conflicts (23.9%)
+In Germany, Yazidi protesters with friends and family in Iraq and Syria call for action to stop ISIS' violent siege. Carsten Koall/Getty
+4. Poverty (29.2%)
+Weeks before the 2016 Olympic Games commence, children play in a garbage dump in one Rio de Janeiro's largest favela complexes, which suffers from poverty and violence. Mario Tama/Getty
+3. Inequality (income, discrimination) (30.8%)
+The income gap between top and bottom earners is getting wider in the US. Spencer Platt/Getty Images
+2. Large scale conflict / wars (38.9%)
+Libyan forces allied with the U.N.-backed government fire a shell at Islamic State fighters' positions in Sirte, Libya August 15, 2016. Ismail Zitouny/Reuters
+1. Climate change / destruction of nature (48.8%)
+.I 29
+.T
+Man's Greatest Achievements
+.W
+The greatest things the human race has ever done or made.
+The Top Ten
+1
+Traveled to the Moon
+This is a feat that will always stand up in history as the most important step in mankind in terms of science and space. If it weren't for the moon landing, we wouldn't be doing research on Mars or be trying to reach other planets now, and this landing has lead to so many new scientific discoveries and possibilities! - Mousike+21
+This was by far and away the most extraordinary achievement of all time. This was pre main stream run of the mill technology. This was ground breaking ingenuity of the greatest kind back then, highlighting the real strive to achieve something of a higher plane that man had not sought achieve before. A great achievement never to be surpassed!+3
+Apollo 11 was the greatest achievements by the human race, it showed us what we could really do when we as a nation and as a species tried.+9
+Absolutely. An astonishing feat of imagination, intelligence and courage that defines the human race.new
+V 32 Comments
+VoteE
+2
+Created Electronic Devices
+Electronic devices now make up a huge part of the lives for the majority of the world. First radios, telephones, following that, we got televisions and mobile phones and now we're at computers, smartphones and the internet. Electricity also provides us lots of interesting technology such as space travel/exploration, special medication methods. Electricity made communication miles easier and opened up countless branches of entertainment. 
+Without electrnic devices, we would never have made it to the moon.+14
+Yeah, I agree to that. This is the perfect reason that why this item shouldn't be ahead of "travelled to the moon" - Neeoo+9
+How do you think we got to the moon+7
+I really have so much respect for that. Imagine life without cars, airplanes, computers etc...?
+We would still be animals NOT humansnew
+V 9 Comments
+VoteE
+3
+Domesticated Fire
+Helped us cook food, making it easier for us to get more glucose to the brain - thereby enlarging our brains by about 2 times of the next million years - and this is when human being unleashed the creative energy from their brains to discover, invent (and sometimes destroy) all the things attributed to humans.+6
+This has to be number 2, it was the thing that started the new era for humans. 
+It's the pillar of creation, same for stone tools. 
+His palms are sweaty, knees weak, arms are heavy, there's vomit on his sweater already mom's sphagetti.new
+V 2 Comments
+VoteE
+4
+Mastered Flight
+Oh, I have slipped the surly bonds of earth, and danced the skies on laughter-silvered wings... - beatles+7
+Great technological invention, and even by 2015, perhaps the grestest, but not the greatest of all human inventions - ability to enlarge our brains, describe and peer into atomic level structures helped us discover and invent all that we see - medicine, materials, electronics, etc. Etc. 
+Flight for humans is impossible. But we flew anyway. - emraldYE+1
+Creating something so big such as the Hindenburg using hydrogen as a flight source is really hardnew
+VoteE
+5
+Created Writing
+Writing is the sole reason that mankind has been able to accumulate knowledge. The limits of oral language becomes quite evident when death comes for all of us. There is also a limit to the quantity of knowledge we can hold, compute, and comprehend within our heads. Abstract thinking is much less efficient when it comes to creating formulas and logical statements. Writing has also allowed us to generalize variations within many fields, especially mathematics and sequences, consequently leading to the discovery/creation of calculus. In short, all of the other achievements listed here would have been impossible or significantly more difficult without the creation of writing.+2
+Personally I think saying that saying going to the moon was our biggest achievement is a very closed minded thought. Think of it in the big picture, writing is a way to get thoughts on paper, stories, recipes, instructions, letters, nothing would exist in our modern work without the art of writing - Waser12345+9
+Who knew a few lines in an odd design could have the power to change our world... 
+baanew
+V 1 Comment
+VoteE
+6
+Created Photography
+To capture the world and keep a scene forever is unearthly. - emraldYE+6
+Photography developed into bird watching, pornography, records of human history, videos, movies, illustrated books, printing and presentation(e.g graphs) 
+I don't know 
+VoteE
+7
+Theories of Relativity and Quantum Mechanics
+How can someone not agree with this, all the objects in the universe can be explained using these theories. Moreover, the future would be based on it, remember teleportation and Quantum Computing? All the above are daily objects which make man's life simple, but did you figuire out how to explain them in the scale of subatomic particles, these theories help you, though there might be loop joles which would be solved in the future.+3
+Explains almost all the we see - from galaxies and stars to protons and electrons.+1
+Ditto _ man's greatest achievement+1
+Newton beats eunsteinnew
+V 2 Comments
+VoteE
+8
+Theory of Evolution
+This one does not deserve to be among all the greatest accomplishments. We were created by God!+4
+Compared to so many other things this is huge! An explanation of how we came into being, if you combine it with natural selection it also becomes possible to manipulate evolution 
+This one needs to not be on this list. What has it done, other than lead many away from the saving grace of Our Lord?+1
+Sure explains a lot more that "god did it"new
+V 3 Comments
+VoteE
+9
+Created Music
+It's amazing that we created a rhythm out of mere noises that we dance to. - emraldYE+11
+Dude without music I would have gone crazy and our whole society would be changed.+7
+Music is one of the most unexplainable thing ; a sequence of sounds that brings you joy.+4
+"music brings people together that normally would kill each other"new
+V 3 Comments
+VoteE
+10
+Created the Internet
+Definitely number one. Without the Internet we wouldn't be able to communicate with the other side of the world cheaply, quickly and decisively.+6
+I want who is the founder of Internet+5
+Probably a brit they invented everything+1
+The internet!new
+V 6 Comments
+VoteE
+The Newcomers
+?
+Won an Argument with His Wife
+VoteE
+?
+Creation of Metal Objects
+VoteE
+The Contenders
+11
+Developed Vaccines
+The ability to save not only humans, but other life forms, from microscopic "devils" is absolutely amazing. - emraldYE+8
+I wonder whether most of us living today would have been living today if not for vaccines.+4
+Vaccines are the man-made mechanism to make humans into super humans+3
+VoteE
+12
+Created Nuclear Weapons
+Man stumbled upon atomic power and fashioned it into nuclear weapons which possess the capacity to destroy every living thing in their path. Nothing man has done is more significant to the future of this world and its inhabitants.+2
+Nuclear weapons are risky but on the other hand these weapons are the main reason we have peace now because of the fear of these weapons 
+A new world war would be way too risky; with such massive weapons, the world would blow each other up. - emraldYE 
+Dudesnew
+VoteE
+13
+Language
+Language is very important because it's how we communicate. It blows my mind how we came up with an entire language from nothing and that we have so many.+11
+Language is the single most important technological leap for mankind. It dwarfs all others in comparison. And how mysterious and powerful it is to be able to take an abstract concept and implant that in the mind of another. It's an incredible feat when you think about it. It borders on being a metaphysical force. 
+Language an entire list of words,sentences,phrases and whole lot of grammar made up of strange sounds from our mouth have the power to express ourselves and others. Without language we would have been prisoners in our minds. Without Language creative writing wouldn't be possible nor would be Internet. What would our thoughts be like if we did not know any language? We even think in a certain language (that's what I think). 
+None of these accomplishments would have happened without communicationnew
+V 6 Comments
+VoteE
+14
+Conquering Mt Everest
+The greatest achievement by climbing the biggest mountain in the world 
+yas+1
+VoteE
+15
+Created the Wheel
+I think this this is important+10
+Wheel improved the transport of things, so improved the commerce and the progress of the humanity.+5
+A wheel is in a lot of things+5
+Wheel is one of the greatest achievement of mankind...new
+V 2 Comments
+VoteE
+16
+Found the Higgs Boson
+Was he lost? Where was he hiding?+3
+That's not true usane bolt is the fastest that's what everyone els says+3
+VJ Tauli is the fastest person in the world 
+VoteE
+17
+Eradicated Small Pox
+This must be the biggest achievement of the twentieth century.To completely eradicate a disease which killed so many people,it's got to be a greater achievement than landing on the moon.+3
+Going to the moon was just 1 nation flexing its muscles to show off to another nation. To tackle smallpox all people around the world had to cooperate to banish a small piece of evil from the land.
+Eridacating smallpox was all of man working together to be the best that we could+3
+VoteE
+18
+Mapped the Human Genome
+The manipulation of genes is the future of medicine.+4
+Big old black one+3
+VoteE
+19
+Periodic Table of the Elements
+Got to know about atoms and how to manipulate them before you can reach the moon.+5
+Most important+2
+Yeah the first priority id to know 'bout the matter around u. - Neeoo+1
+Sciencenew
+V 1 Comment
+VoteE
+20
+Created the Television
+Man has achieved far more mind boggling tasks then creating the television...yes it's used everyday for very necessary things such as information (news) and leisure but millions of years and the countless amount of people who have walked the earth and the ideas that have been thought/brought to life television doesn't ranked among the top 20. What about the creation of the 12 month calander? It's amazing how man with technology nothing like we see today was able to develop a time clock and determine how many days it took days it takes for the earth to rotate the sun is just amazing.+4
+If I went back in time knowing what I know now I think I could come up with the lightbulb, radio, and even powered flight but television? Truly the most complex and important human achievement next to going to the moon.
+Philo Farnsworth is my hero!+1
+VoteE
+21
+Developed and Mastered Agriculture and Animal Domestication
+Humanity began a new era. 
+VoteE
+22
+Made a Sheep Clone
+Then it died soon after+2
+I want to know how they do that though 
+VoteE
+23
+Invented the Printing Press
+This has changed the history of the whole world. Without the Printing Press, the Bible, and several other books and works would never be in the hands of simple civilians. 
+VoteE
+24
+Created Cars
+lad 
+VoteE
+25
+Discovery and Control of Electricity
+Non of the things rated higher than this could have been done without this+1
+VoteE
+26
+Creation of United Nations
+After all we have a place to talk.discus and mitigate our differences. 
+VoteE
+.I 30
+.T
+Family Quotes
+.W 
+The most important thing in the world is family and love. - John Wooden
+John Wooden
+Father's Day, Most, Love
+Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored.
+Earl Nightingale
+Learning, Wait, Happy
+You don't choose your family. They are God's gift to you, as you are to them. - Desmond Tutu
+Desmond Tutu
+Gift, Choose, Them
+Peace is the beauty of life. It is sunshine. It is the smile of a child, the love of a mother, the joy of a father, the togetherness of a family. It is the advancement of man, the victory of a just cause, the triumph of truth.
+Menachem Begin
+Love, Triumph, Beauty
+It's all about quality of life and finding a happy balance between work and friends and family. - Philip Green
+It's all about quality of life and finding a happy balance between work and friends and family.
+Philip Green
+Life, Work, Happy
+Family is not an important thing. It's everything. - Michael J. Fox
+Family is not an important thing. It's everything.
+Michael J. Fox
+Important, Important Thing
+My family is my life, and everything else comes second as far as what's important to me. - Michael Imperioli
+Michael Imperioli
+My Life, Life, Second
+Nothing is better than going home to family and eating good food and relaxing. - Irina Shayk
+Irina Shayk
+Better, Going Home, Going
+At the end of the day, life is about being happy being who you are, and I feel like we are so blessed to have the support system and the best family to really just support each other no matter what we're going through.
+Kim Kardashian
+Other, Through, Happy
+To us, family means putting your arms around each other and being there. - Barbara Bush
+Barbara Bush
+Other, Means, Putting
+To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind. If a man can control his mind he can find the way to Enlightenment, and all wisdom and virtue will naturally come to him.
+Buddha
+Peace, True Happiness, Own
+I am blessed to have so many great things in my life - family, friends and God. All will be in my thoughts daily.
+Lil' Kim
+My Life, Thoughts, Will
+The family is one of nature's masterpieces. - George Santayana
+George Santayana
+Nature, Masterpieces
+  
+Family is a unique gift that needs to be appreciated and treasured, even when they're driving you crazy. As much as they make you mad, interrupt you, annoy you, curse at you, try to control you, these are the people who know you the best and who love you.
+Jenna Morasca
+Gift, Love, Annoy
+Happiness is having a large, loving, caring, close-knit family in another city. - George Burns
+George Burns
+Funny, Loving, Caring
+Neither man nor woman is perfect or complete without the other. Thus, no marriage or family, no ward or stake is likely to reach its full potential until husbands and wives, mothers and fathers, men and women work together in unity of purpose, respecting and relying upon each other's strengths.
+Sheri L. Dew
+Other, Fathers, Woman
+I believe that the greatest gift you can give your family and the world is a healthy you. - Joyce Meyer
+Joyce Meyer
+Health, Gift, Give
+You need a strong family because at the end, they will love you and support you unconditionally. Luckily, I have my dad, mom and sister.
+Esha Gupta
+Love, Strong, Need
+For there is no friend like a sister in calm or stormy weather; To cheer one on the tedious way, to fetch one if one goes astray, to lift one if one totters down, to strengthen whilst one stands.
+Christina Rossetti
+Stormy, Like, Goes
+I think togetherness is a very important ingredient to family life. - Barbara Bush
+I think togetherness is a very important ingredient to family life.
+Barbara Bush
+Important, Think, Very
+Sister is probably the most competitive relationship within the family, but once the sisters are grown, it becomes the strongest relationship.
+Margaret Mead
+Within, Sisters, Becomes
+Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family.
+Kofi Annan
+Knowledge, Society
+The bond that links your true family is not one of blood, but of respect and joy in each other's life.
+Richard Bach
+Other, Joy, True
+God has blessed me with an amazing family, friends and work colleagues that have been my joy, my support, and my sanity. I don't know what I'd do without them.
+Josie Loren
+Blessed, Been, Work
+The memories we make with our family is everything.
+Candace Cameron Bure
+Memories, Everything, Make
+Family and friendships are two of the greatest facilitators of happiness. - John C. Maxwell
+Family and friendships are two of the greatest facilitators of happiness.
+John C. Maxwell
+Happiness, Friendships, Two
+My family is everything. I am what I am thanks to my mother, my father, my brother, my sister... because they have given me everything. The education I have is thanks to them.
+Ronaldinho
+Given, Education, Father
+My friends and family are my support system. They tell me what I need to hear, not what I want to hear and they are there for me in the good and bad times. Without them I have no idea where I would be and I know that their love for me is what's keeping my head above the water.
+Kelly Clarkson
+Bad, Love, Idea
+I always believe holidays strengthen the family bond, away from our daily hectic schedules.
+Chiranjeevi
+Always, Away, Believe
+It's an absolute honor to be taking part in the pageant for the Diamond Jubilee. This is a once-in-a-lifetime opportunity and will be a moment in history that will always be remembered. I'm really looking forward to being out on the river with friends and family. To mark this historic moment will be extremely special.
+Steve McFadden
+Honor, Part, Looking Forward
+I try to keep in mind that it's a long journey. It's not a race. It's about staying focused, continuing to do good work, make my family and community proud; that's all I really want to do... and pay my bills.
+Gina Rodriguez
+Good Work, Staying, About
+I want to thank God, obviously for the health, for the talent He's given me, for my family who supports me, for the things that basketball's taught me on and off the court. For the people that I've been able to meet through the game of basketball.
+Stephen Curry
+Through, Been, Game
+The other night I ate at a real nice family restaurant. Every table had an argument going.
+George Carlin
+Other, Argument, Going
+Holidays - any holiday - are such a great opportunity to focus on bringing the family together.
+Lidia Bastianich
+Holidays, Bringing, Focus
+God Bless my mother and father for all the hard work they've done for our family.
+Coy Bowles
+Mother And Father, Work
+I think our family motto is to always work hard, be humble, kind, and thoughtful about others around us.
+Anwar Hadid
+Humble, Always, Think
+Think about what people are doing on Facebook today. They're keeping up with their friends and family, but they're also building an image and identity for themselves, which in a sense is their brand. They're connecting with the audience that they want to connect to. It's almost a disadvantage if you're not on it now.
+Mark Zuckerberg
+Doing, Almost, About
+When a kid graduates from being the youngest in a family to being a big brother or sister, there's an amazing transformation. They have to make a big effort, and when they accept their new position in the family, everybody breathes a sigh of relief. All of a sudden they seem bigger, and they seem smarter, and they feel good about it, too.
+Peggy Rathmann
+Big Brother, Big, Everybody
+You go through life wondering what is it all about but at the end of the day it's all about family.
+Rod Stewart
+Through, Go, About
+We are very excited about welcoming a new member of the family, a daughter! - Michael Weatherly
+We are very excited about welcoming a new member of the family, a daughter!
+Michael Weatherly
+Excited, Very, New
+I am happy with my family and my colleagues and want to continue making my own kind of cinema. I have never belonged to any camp and have no friends in the industry. Most of them will pay lip service, but when it comes to doing, they tend to shy away.
+Sunny Deol
+Doing, I Am Happy, Away
+Anyone with a heart, with a family, has experienced loss. No one escapes unscathed. Every story of separation is different, but I think we all understand that basic, wrenching emotion that comes from saying goodbye, not knowing if we'll see that person again - or perhaps knowing that we won't.
+Luanne Rice
+I Think, Goodbye, Loss
+Soup is a lot like a family. Each ingredient enhances the others; each batch has its own characteristics; and it needs time to simmer to reach full flavor.
+Marge Kennedy
+Needs, Soup, Characteristics
+My perfect weekend is going for a walk with my family in the park. I don't think there's anything better.
+Anne Wojcicki
+Think, Perfect, Going
+Getting up quite late in the morning, going and trying to clean my bikes - I have quite a few of them in Ranchi - spending some time with my family, my parents and friends. Going out for rides with my friends and having lunch or dinner at a roadside hotel - that's my favourite time-pass. These are the sort of things that really excite me.
+Mahendra Singh Dhoni
+Some, Lunch, Rides
+A good job is more than just a paycheck. A good job fosters independence and discipline, and contributes to the health of the community. A good job is a means to provide for the health and welfare of your family, to own a home, and save for retirement.
+James H. Douglas, Jr.
+Work, Means, More
+No family is complete without an embarrassing uncle.
+Peter Morgan
+Embarrassing, Uncle
+We were a family that made our Halloween costumes. Or, more accurately, my mother made them. She took no suggestions or advice. Halloween costumes were her territory. She was the brain behind my brother's winning girl costume, stuffing her own bra with newspapers for him to wear under a cashmere sweater and smearing red lipstick on his lips.
+Ann Hood
+Advice, Stuffing, Behind
+Great men show politeness in a particular way; a smile suffices to assure you that you are welcome, and keep about their avocations as if you were a member of the family.
+John James Audubon
+Particular Way, Show, About
+ If you cannot get rid of the family skeleton, you may as well make it dance. - George Bernard Shaw
+If you cannot get rid of the family skeleton, you may as well make it dance.
+George Bernard Shaw
+Funny, Skeleton, May
+I'm not sure I'm a good cook. But I like cooking, and it's a real family thing - an expression of love being together.
+Genevieve O'Reilly
+Love, Sure, Expression
+I'll tell you what I'm grateful for, and that's the clarity of understanding that the most important things in life are health, family and friends, and the time to spend on them.
+Kenneth Branagh
+.I 30
+.T
+Installing Jupyter
+.W
+Installing Jupyter
+Get up and running with the Jupyter Notebook on your computer within minutes!
+Prerequisite: Python
+While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself.
+Installing Jupyter using Anaconda
+We strongly recommend installing Python and Jupyter using the Anaconda Distribution, which includes Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
+First, download Anaconda. We recommend downloading Anaconda’s latest Python 3 version.
+Second, install the version of Anaconda which you downloaded, following the instructions on the download page.
+Congratulations, you have installed Jupyter Notebook! To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
+jupyter notebook
+See Running the Notebook for more details.
+Installing Jupyter with pip
+As an existing or experienced Python user, you may wish to install Jupyter using Python’s package manager, pip, instead of Anaconda.
+If you have Python 3 installed (which is recommended):
+python3 -m pip install --upgrade pip
+python3 -m pip install jupyter
+If you have Python 2 installed:
+python -m pip install --upgrade pip
+python -m pip install jupyter
